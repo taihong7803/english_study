@@ -103,7 +103,7 @@ The project starts. → The project ( \_\_\_\_\_\_\_\_\_\_ ) ( \_\_\_\_\_\_\_\_\
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習): [【5月4日】ニュースで「過去形」はNG？現在完了形を使う本当の理由。](https://youtube.com/shorts/D4rMxUq3WI0?feature=share)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---

@@ -108,7 +108,7 @@ As of May 4, 2026, the global focus has shifted to the escalating tensions in th
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中]
+- Shorts (15秒で復習): [【5月4日】ネイティブが使う「後ろから説明」の魔法。英語構文の裏付け。](https://youtube.com/shorts/D4rMxUq3WI0?feature=share)
 - 長尺 (じっくり解説): [準備中]
 
 ---

@@ -78,7 +78,7 @@
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習):  [【5月4日】中東の緊迫が食卓を直撃？英語で読み解く世界経済。](https://youtube.com/shorts/s1o0wF3wUys?feature=share)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---
