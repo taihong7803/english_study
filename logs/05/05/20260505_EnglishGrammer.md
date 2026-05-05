@@ -93,7 +93,7 @@ We planted trees ( 　 ) ( 　 ) the environment.
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習): [【完了形】もう迷わない！過去形との違いはこれだけ](https://youtube.com/shorts/vuebPXHCXtM)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---

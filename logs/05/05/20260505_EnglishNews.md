@@ -113,7 +113,7 @@ As of May 5, 2026, the global shift toward "Green Energy Sovereignty" has reache
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中]
+- Shorts (15秒で復習): [【Apple最新】プライバシー強化でAIはどう変わる？ ](https://youtube.com/shorts/l2ZPV0cqzUg)
 - 長尺 (じっくり解説): [準備中]
 
 ---

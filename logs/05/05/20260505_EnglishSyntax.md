@@ -100,7 +100,7 @@ It is because of the **urgent need to standardize medical quality worldwide**. W
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習): [【強調構文】伝えたい言葉を「挟むだけ」で英語は変わる](https://youtube.com/shorts/6Bq6uV_sij4?feature=share)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---
