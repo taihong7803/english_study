@@ -110,7 +110,7 @@ AI technology does not stop at national borders. If one country has strict ethic
 ---
 
 ## 📺 【音声解説】
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習): [【30秒英語】知るだけで読解速度UP！It is...that...強調構文の型 ](https://youtube.com/shorts/EZstCQqFVok)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---

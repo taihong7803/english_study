@@ -120,7 +120,7 @@ Developed countries can help by not only providing financial aid but also by sha
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中]
+- Shorts (15秒で復習): [【30秒英語】最新ニュースで学ぶ！「衝撃に備える」って英語でなんて言う？ ](https://youtube.com/shorts/K8s8_kzy6Qk)
 - 長尺 (じっくり解説): [準備中]
 
 ---

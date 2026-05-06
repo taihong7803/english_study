@@ -95,7 +95,7 @@
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習): [【30秒英語】エンジニア必須！不定詞の形容詞的用法と納期の"by"](https://youtube.com/shorts/8hcFWA3GkLA?feature=share)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---
