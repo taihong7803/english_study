@@ -112,7 +112,7 @@ In 2026, I believe the most important thing to **keep up with** is the integrati
 ---
 
 ## 📺 【音声解説】熟語のリズムと繋がる発音
-- Shorts (15秒で復習): [準備中]
+- Shorts (15秒で復習): [ゴミを宝に変える英熟語5選！5/7プロジェクト始動 ](https://youtube.com/shorts/d1-wedqamXk)
 - 長尺 (じっくり解説): [準備中]
 
 ---
@@ -120,8 +120,8 @@ In 2026, I believe the most important thing to **keep up with** is the integrati
 ## 📚 熟語学習をブーストするツール
 - **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図鑑]
 - **Amazonおすすめ**:
-    - [ノイキャンイヤホン](アフィリエイトリンク)
-    - [キクジュク（英検2級レベル）](アフィリエイトリンク)
+    - [ノイキャンイヤホン](https://amzn.to/3ORCqbo)
+    - [キクジュク（英検2級レベル）](https://amzn.to/3PrcHqj)
 
 ---
 
