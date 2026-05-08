@@ -105,7 +105,7 @@ A) call for  B) lead to  C) carry out
 ---
 
 ## 📺 【音声解説】熟語のリズムと繋がる発音
-- Shorts (15秒で復習): [準備中]
+- Shorts (15秒で復習): [仕事で使える！ネイティブ級の英熟語3選 ](https://youtube.com/shorts/49sXbaEeRn4)
 - 長尺 (じっくり解説): [準備中]
 
 ---

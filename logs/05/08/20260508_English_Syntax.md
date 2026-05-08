@@ -99,7 +99,7 @@ She ( ) finally ( ) the work.
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：YouTube URLを貼る]
+- Shorts (15秒で復習): [【30秒でわかる！】最新宇宙ニュースで英語構文をマスター](https://youtube.com/shorts/qpUzx9hNSgg)
 - 長尺 (じっくり解説): [準備中：YouTube URLを貼る]
 
 ---

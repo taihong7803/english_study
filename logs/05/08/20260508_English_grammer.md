@@ -93,7 +93,7 @@ A) ethical  B) ethics  C) ethnic
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中：https://youtube.com/shorts/example123]
+- Shorts (15秒で復習): [【30秒】「〜すればよかった」を英語で！後悔と推量の英文法マスター](https://youtube.com/shorts/T78EMocPB6s)
 - 長尺 (じっくり解説): [準備中：https://youtube.com/watch?v=example456]
 
 ---

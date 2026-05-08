@@ -118,7 +118,7 @@ As of May 8, 2026, the global focus has shifted towards the "Kyoto Green Energy 
 ---
 
 ## 📺 【音声解説】この一文の発音とコツ（動画）
-- Shorts (15秒で復習): [準備中]
+- Shorts (15秒で復習): [【英語ニュース】AI時代の救世主？「京都グリーンエネルギー協定」とは](https://youtube.com/shorts/IXqleusOIB0)
 - 長尺 (じっくり解説): [準備中]
 
 ---
