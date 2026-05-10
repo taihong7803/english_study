@@ -119,7 +119,7 @@ C) fresh
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
+* Shorts (15秒): [【英語ニュース】5/10は「世界渡り鳥の日」昆虫の減少が鳥を救う？](https://youtube.com/shorts/NvCQYJIvw4o)
 * 長尺 (じっくり解説): [準備中]
 
 ---
@@ -128,12 +128,9 @@ C) fresh
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [ノイキャンイヤホン](https://www.google.com/search?q=https://www.amazon.co.jp/s%3Fk%3Dnoise%2Bcancelling%2Bearbuds)
-* [基礎英語2 関連書籍](https://www.google.com/search?q=https://www.amazon.co.jp/s%3Fk%3DNHK%E5%9F%BA%E7%A4%8E%E8%8B%B1%E8%AA%9E2)
-
-
+* [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://amzn.to/4noh9CT)
+* [本日の学習のベース「基礎英語2」関連書籍](https://amzn.to/4d0VEob)
 
 ---
-
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**
 （※5月12日の「頭痛の日」が近いですが、日々の積み重ねが一番の薬です！）

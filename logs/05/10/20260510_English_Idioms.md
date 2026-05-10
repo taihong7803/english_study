@@ -121,7 +121,7 @@ Climate change is a global challenge that no single nation can solve alone. If c
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
+* Shorts (15秒): [【英語ニュース】5/10は「世界渡り鳥の日」昆虫の減少が鳥を救う？](https://youtube.com/shorts/NvCQYJIvw4o)
 * 長尺 (じっくり解説): [準備中]
 
 ---
@@ -130,8 +130,9 @@ Climate change is a global challenge that no single nation can solve alone. If c
 
 * **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 * **Amazonおすすめ**:
-* [ノイキャンイヤホン]()
-* [キクジュク（英検2級レベル）]()
+* [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://amzn.to/4noh9CT)
+* [本日の学習のベース「基礎英語2」関連書籍](https://amzn.to/4d0VEob)
+
 
 
 
