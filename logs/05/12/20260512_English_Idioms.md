@@ -133,7 +133,7 @@ In the global politics of 2026, we see many "simmering" tensions—economic riva
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
+* Shorts (15秒): [The 3rd Oil Shock is Here! 🛢️ Can Project 20 Save the Energy Grid?](https://youtube.com/shorts/XEt0GaOgurI)
 * 長尺 (じっくり解説): [準備中]
 
 ---
