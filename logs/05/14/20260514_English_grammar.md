@@ -130,7 +130,7 @@ A) increase  B) reduce  C) ignore
 
 ## 📺 【音声解説】
 
-* **Shorts (15秒)**: [準備中] - *「今日のキーワードは "Transition"（移行）です！」*
+* **Shorts (15秒)**:[【宇宙の新時代】国家主導は終わり？民間企業が魅せる未来が凄すぎる](https://youtube.com/shorts/TCXNEl5gnBw)
 * **長尺 (じっくり解説)**: [準備中] - *ニュースの背景にある世界経済の動向を英語で解説。*
 
 ---
@@ -139,8 +139,8 @@ A) increase  B) reduce  C) ignore
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 2026年版]
 * **Amazonおすすめアイテム**
-* [ノイキャンイヤホン]() - *集中力を高めてリスニング学習！*
-* [基礎英語2 関連書籍]() - *大人の学び直しに最適な一冊。*
+    * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.https://amzn.to/3PF33Awjp/)
+    * [本日の学習のベース「基礎英語2」関連書籍](https://www.amahttps://amzn.to/4uM4xYyzon.co.jp/)
 
 
 

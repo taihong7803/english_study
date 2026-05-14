@@ -107,7 +107,7 @@ that節の内部をさらに見ると、"it (ECB) will maintain (V') interest ra
 ---
 
 ## 📺 【音声解説】
-* Shorts (15秒): [準備中] - *「今日のキーワードは "Consecutive"！英検でも超頻出です！」*
+* Shorts (15秒):[【宇宙の新時代】国家主導は終わり？民間企業が魅せる未来が凄すぎる](https://youtube.com/shorts/TCXNEl5gnBw)
 * 長尺 (じっくり解説): [準備中] - *「なぜ金利が私たちの生活に直結するのか？英文法と一緒に徹底解説」*
 
 ---
@@ -115,8 +115,8 @@ that節の内部をさらに見ると、"it (ECB) will maintain (V') interest ra
 ## 📚 学習を加速させるおすすめツール
 * **Kindle本**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 * **Amazonおすすめアイテム**
-    * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.jp/)
-    * [本日の学習のベース「基礎英語2」関連書籍](https://www.amazon.co.jp/)
+    * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.https://amzn.to/3PF33Awjp/)
+    * [本日の学習のベース「基礎英語2」関連書籍](https://www.amahttps://amzn.to/4uM4xYyzon.co.jp/)
 
 ---
 

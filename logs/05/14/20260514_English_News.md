@@ -142,7 +142,7 @@ The ( a. three-months / b. three-month ) training program was very difficult.
 
 ## 📺 【音声解説】
 
-Shorts (15秒): [準備中] - *「今日のキーワードは "Transit"！宇宙の旅もお出かけもこの単語で！」*
+Shorts (15秒): [【宇宙の新時代】国家主導は終わり？民間企業が魅せる未来が凄すぎる](https://youtube.com/shorts/TCXNEl5gnBw)
 長尺 (じっくり解説): [準備中] - *「スペースXの成功から学ぶ、未来の英単語と分詞構文」*
 
 ---
@@ -151,8 +151,8 @@ Shorts (15秒): [準備中] - *「今日のキーワードは "Transit"！宇宙
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 宇宙・テック編]
 * **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.amazon.co.jp/) - *リスニングに没頭できる！*
-* [基礎英語2 関連書籍](https://www.amazon.co.jp/) - *中学文法の総仕上げに。*
+    * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.https://amzn.to/3PF33Awjp/)
+    * [本日の学習のベース「基礎英語2」関連書籍](https://www.amahttps://amzn.to/4uM4xYyzon.co.jp/)
 
 
 

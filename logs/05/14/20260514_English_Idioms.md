@@ -121,7 +121,7 @@
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中] - 「アイロンをかけるように問題を解決！iron outを覚えよう！」
+* Shorts (15秒): [【宇宙の新時代】国家主導は終わり？民間企業が魅せる未来が凄すぎる](https://youtube.com/shorts/TCXNEl5gnBw)
 * 長尺 (じっくり解説): [準備中] - 「スペースXと米中首脳会談から学ぶ、ニュース英語の句動詞5選」
 
 ---
@@ -130,8 +130,8 @@
 
 * **Kindle本**: [ネイティブの感覚で捉える英熟語図録]
 * **Amazonおすすめ**:
-* [ノイキャンイヤホン](https://www.amazon.co.jp/) - 集中リスニングに！
-* [キクジュク（英検2級レベル）](https://www.amazon.co.jp/) - 頻出句動詞の網羅に最適。
+    * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.https://amzn.to/3PF33Awjp/)
+    * [本日の学習のベース「基礎英語2」関連書籍](https://www.amahttps://amzn.to/4uM4xYyzon.co.jp/)
 
 
 
