@@ -79,21 +79,11 @@
 
 | 単語・フレーズ | 意味 | 語源 (Root) / 成り立ち | 類義語 (Synonyms) | 反対語 (Antonyms) |
 | --- | --- | --- | --- | --- |
-| **hoard**<br>
-
-<br>*(動)* [hɔ́ːrd] | 買い溜めする、秘蔵する | 古期英語 *hord*（財宝・隠し場所）より。 | stockpile, stock up, amass | distribute, squander |
-| **the public**<br>
-
-<br>*(名)* [ðə pʌ́blik] | 国民、大衆、一般社会 | ラテン語 *publicus*（人々の、公の）より。 | citizens, society, community | individuals |
-| **stock up (on)**<br>
-
-<br>*(句動)* [stɑ́k ʌ́p] | 〜を買い込む、蓄える | *stock*（在庫・貯え）を *up*（完全に）満たす。 | hoard, store, buy in | sell off, deplete |
-| **amid**<br>
-
-<br>*(前)* [əmíd] | 〜の最中に、真っ只中に | 古期英語 *on middan*（真ん中に）が由来。 | during, in the middle of | outside of |
-| **shortage**<br>
-
-<br>*(名)* [ʃɔ́ːrtidʒ] | 不足、欠乏 | 形容詞 *short*（不足している）＋ 名詞語尾 *-age*。 | lack, scarcity, deficit | surplus, abundance |
+| **hoard**|*(動)* [hɔ́ːrd] | 買い溜めする、秘蔵する | 古期英語 *hord*（財宝・隠し場所）より。 | stockpile, stock up, amass | distribute, squander |
+| **the public**|*(名)* [ðə pʌ́blik] | 国民、大衆、一般社会 | ラテン語 *publicus*（人々の、公の）より。 | citizens, society, community | individuals |
+| **stock up (on)**|*(句動)* [stɑ́k ʌ́p] | 〜を買い込む、蓄える | *stock*（在庫・貯え）を *up*（完全に）満たす。 | hoard, store, buy in | sell off, deplete |
+| **amid**|*(前)* [əmíd] | 〜の最中に、真っ只中に | 古期英語 *on middan*（真ん中に）が由来。 | during, in the middle of | outside of |
+| **shortage**|*(名)* [ʃɔ́ːrtidʒ] | 不足、欠乏 | 形容詞 *short*（不足している）＋ 名詞語尾 *-age*。 | lack, scarcity, deficit | surplus, abundance |
 
 ---
 
