@@ -149,8 +149,8 @@ The facility operated for months [  ] the utility company identified the system 
 
 ## 📺 【音声解説】
 
-* **Shorts (15秒)**: [準備中] - 「3,000万ガロンの水が消えた!? ニュースで学ぶ過去分詞の落とし穴」
-* **長尺 (じっくり解説)**: [準備中] - 「AIデータセンターの裏に潜む環境問題。重要構文と合わせて10分徹底解説」
+* **Shorts (15秒)**: [AIデータセンターが水を“無断消費”⁉ 米ジョージア州の闇【AI Data Center Secretly Steals Water?!】](https://youtube.com/shorts/hcUWfVik5QI)
+* **長尺 (じっくり解説)**:[【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！【英語学習 / リスニング】【作業用BGM】](https://youtu.be/ZwhqCHNsGN4)
 
 ---
 
@@ -158,8 +158,8 @@ The facility operated for months [  ] the utility company identified the system 
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF) - 外出先や通勤中でも、集中してニュース英語のリスニング学習ができる必須アイテム。
-* [基礎英語2 関連書籍](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF) - 中学文法からしっかり大人の学び直しをしたい方に最適なベストセラー。
+  * [ノイキャンイヤホン](https://amzn.to/49GfRNR) - カフェや通勤中でもニュース英語のリスニングに集中できる必需品。
+  * [基礎英語2 関連書籍](https://amzn.to/4dvPZFu) - 中学文法をもう一度しっかり固めたい大人のための定番テキスト。
 
 
 

@@ -73,47 +73,11 @@
 
 | 単語 / フレーズ | 語源 (Root) | 類義語 (Synonyms) | 反対語 (Antonyms) | 例文 |
 | --- | --- | --- | --- | --- |
-| **develop**<br>
-
-<br>(動詞) 開発する | `de-` (外す)<br>
-
-<br>+ `velop` (包む)<br>
-
-<br>＝包みを解いて表に出す | create, build, establish | destroy, neglect | *The company plans to develop a new cooling system.*<br>
-
-<br>(その会社は新しい冷却システムを開発する計画だ。) |
-| **unaccounted-for**<br>
-
-<br>(形容詞) 把握されていない | `un-` (不)<br>
-
-<br>+ `account` (計算・説明)<br>
-
-<br>＝計算に入っていない | missing, untracked, unrecorded | tracked, checked, accounted | *There were some unaccounted-for costs in the project.*<br>
-
-<br>(プロジェクトにいくつかの把握されていないコストがあった。) |
-| **complain**<br>
-
-<br>(動詞) 苦情を言う | ラテン語 `complangere`<br>
-
-<br>(胸を叩いて嘆く) | object, protest, grumble | praise, approve | *Local residents complained about the loud noise.*<br>
-
-<br>(地域住民は騒音について苦情を言った。) |
-| **utility**<br>
-
-<br>(名詞) 公益事業(水道・電気・ガス) | ラテン語 `utilis`<br>
-
-<br>(役に立つ、有益な) | public service, infrastructure | N/A (一般名詞のため特になし) | *The utility company cut off the water supply by mistake.*<br>
-
-<br>(水道局は手違いで水の供給を止めてしまった。) |
-| **discover**<br>
-
-<br>(動詞) 発見する、特定する | `dis-` (反対・剥ぎ取る)<br>
-
-<br>+ `cover` (覆い)<br>
-
-<br>＝覆いを取って見つける | find, detect, uncover | hide, lose, ignore | *We discovered a hidden leak in the water pipes.*<br>
-
-<br>(私たちは水道管に隠れた水漏れを発見した。) |
+| **develop**|(動詞) 開発する | `de-` (外す)|+ `velop` (包む)＝包みを解いて表に出す  create, build, establish  destroy, neglect | *The company plans to develop a new cooling system.*(その会社は新しい冷却システムを開発する計画だ。) |
+| **unaccounted-for**|(形容詞) 把握されていない | `un-` (不)|+ `account` (計算・説明)＝計算に入っていない missing, untracked, unrecorded tracked, checked, accounted | *There were some unaccounted-for costs in the project.*(プロジェクトにいくつかの把握されていないコストがあった。) |
+| **complain**|(動詞) 苦情を言う | ラテン語 `complangere`|(胸を叩いて嘆く) object, protest, grumble praise, approve | *Local residents complained about the loud noise.*(地域住民は騒音について苦情を言った。) |
+| **utility**|(名詞) 公益事業(水道・電気・ガス) | ラテン語 `utilis`|(役に立つ、有益な) public service, infrastructure | N/A (一般名詞のため特になし) | *The utility company cut off the water supply by mistake.*(水道局は手違いで水の供給を止めてしまった。) |
+| **discover**|(動詞) 発見する、特定する | `dis-` (反対・剥ぎ取る)|+ `cover` (覆い)＝覆いを取って見つける find, detect, uncover hide, lose, ignore | *We discovered a hidden leak in the water pipes.*(私たちは水道管に隠れた水漏れを発見した。) |
 
 ---
 
@@ -165,8 +129,8 @@ The data center [  ] in that area requires a lot of electricity.
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+* Shorts (15秒): [AIデータセンターが水を“無断消費”⁉ 米ジョージア州の闇【AI Data Center Secretly Steals Water?!】](https://youtube.com/shorts/hcUWfVik5QI)
+* 長尺 (じっくり解説): [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！【英語学習 / リスニング】【作業用BGM】](https://youtu.be/ZwhqCHNsGN4)
 
 ---
 
@@ -174,9 +138,8 @@ The data center [  ] in that area requires a lot of electricity.
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 * **Amazonおすすめアイテム**
-* [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-* [本日の学習のベース「基礎英語2」関連書籍](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-
+  * [ノイキャンイヤホン](https://amzn.to/49GfRNR) - カフェや通勤中でもニュース英語のリスニングに集中できる必需品。
+  * [基礎英語2 関連書籍](https://amzn.to/4dvPZFu) - 中学文法をもう一度しっかり固めたい大人のための定番テキスト。
 
 
 ---

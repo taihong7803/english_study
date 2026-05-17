@@ -168,8 +168,8 @@ The rapid expansion of artificial intelligence (AI) has led to an unprecedented 
 
 ## 📺 【音声解説】
 
-* **Shorts (15秒)**: [準備中] - 「unaccounted forってどういう意味？データセンターのニュースから学ぶ必須熟語」
-* **長尺 (じっくり解説)**: [準備中] - 「complain aboutの正しい使い方と、Big Techが直面する水問題の裏側」
+* **Shorts (15秒)**: [AIデータセンターが水を“無断消費”⁉ 米ジョージア州の闇【AI Data Center Secretly Steals Water?!】](https://youtube.com/shorts/hcUWfVik5QI)
+* **長尺 (じっくり解説)**:[【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！【英語学習 / リスニング】【作業用BGM】](https://youtu.be/ZwhqCHNsGN4)
 
 ---
 
@@ -177,8 +177,8 @@ The rapid expansion of artificial intelligence (AI) has led to an unprecedented 
 
 * **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録 - イメージで繋ぐ前置詞の世界]
 * **Amazonおすすめ**:
-* [ノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF) - 音声講義や英語リスニングをノイズのない環境でじっくり聴き込むための相棒。
-* [キクジュク（英検2級レベル）](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF) - イディオムのコアイメージを掴みながら、大人の学び直しを加速させる定番の一冊。
+  * [ノイキャンイヤホン](https://amzn.to/49GfRNR) - カフェや通勤中でもニュース英語のリスニングに集中できる必需品。
+  * [基礎英語2 関連書籍](https://amzn.to/4dvPZFu) - 中学文法をもう一度しっかり固めたい大人のための定番テキスト。
 
 
 
