@@ -86,47 +86,11 @@
 
 | 単語 (Part of Speech) | 語源 (Root / Origin) | 類義語 (Synonyms) | 反対語 (Antonyms) | ニュースで使われた意味と実戦例文 |
 | --- | --- | --- | --- | --- |
-| **national**<br>
-
-<br>(名詞) | **nat-**（生まれる、誕生）<br>
-
-<br>+ **-al**（〜の性質）<br>
-
-<br>⇒ その国に生まれた人 | citizen, subject | foreigner, alien | **【意味】国民、国籍保持者**<br>
-
-<br>例文: *The government is trying to rescue its nationals from the conflict zone.* (政府は紛争地域から自国国民を救出しようとしている。) |
-| **enclosure**<br>
-
-<br>(名詞) | **in- / en-**（中へ）<br>
-
-<br>+ **close**（閉じる）<br>
-
-<br>⇒ 中に閉じ込める場所 | cage, compound, pen | open space | **【意味】（動物園などの）囲い、フェンスで囲まれた土地**<br>
-
-<br>例文: *The giant panda was sleeping peacefully inside its enclosure.* (ジャイアントパンダは囲いの中で平和そうに眠っていた。) |
-| **arrest**<br>
-
-<br>(動詞) | **ad-**（〜へ）<br>
-
-<br>+ **restare**（とどまる、止める）<br>
-
-<br>⇒ 動きを止めさせる | apprehend, detain | release, free | **【意味】〜を逮捕する、拘束する**<br>
-
-<br>例文: *The suspect was arrested on suspicion of property damage.* (容疑者は器物破損の疑いで逮捕された。) |
-| **stunt**<br>
-
-<br>(名詞) | 不明（19世紀末の大学スポーツ・サーカス用語から普及） | prank, gimmick, trick | ordinary action | **【意味】スタント、人目を引くための危険な行為、売名行為**<br>
-
-<br>例文: *Jumping off the bridge was just a reckless stunt for social media likes.* (橋から飛び降りる行為は、SNSのいいねを狙った無謀な売名行為にすぎなかった。) |
-| **suspect**<br>
-
-<br>(名詞 / 動詞) | **sub-**（下から）<br>
-
-<br>+ **specere**（見る）<br>
-
-<br>⇒ 下から怪しんで見上げる | offender, person of interest | innocent person | **【意味】容疑者、被疑者**<br>
-
-<br>例文: *The police questioned the suspect for three hours.* (警察はその容疑者を3時間取り調べた。) |
+| **national**| (名詞) | **nat-**（生まれる、誕生） |  + **-al**（〜の性質）  ⇒ その国に生まれた人 | citizen, subject | foreigner, alien | **【意味】国民、国籍保持者** | 例文: *The government is trying to rescue its nationals from the conflict zone.* (政府は紛争地域から自国国民を救出しようとしている。) |
+| **enclosure**  (名詞) | **in- / en-**（中へ）  + **close**（閉じる）  ⇒ 中に閉じ込める場所 | cage, compound, pen | open space | **【意味】（動物園などの）囲い、フェンスで囲まれた土地**  例文: *The giant panda was sleeping peacefully inside its enclosure.* (ジャイアントパンダは囲いの中で平和そうに眠っていた。) |
+| **arrest**  | (動詞) | **ad-**（〜へ） | + **restare**（とどまる、止める）| ⇒ 動きを止めさせる | apprehend, detain | release, free | **【意味】〜を逮捕する、拘束する**  | 例文: *The suspect was arrested on suspicion of property damage.* (容疑者は器物破損の疑いで逮捕された。) |
+| **stunt** | (名詞) | 不明（19世紀末の大学スポーツ・サーカス用語から普及） | prank, gimmick, trick | ordinary action | **【意味】スタント、人目を引くための危険な行為、売名行為** | 例文: *Jumping off the bridge was just a reckless stunt for social media likes.* (橋から飛び降りる行為は、SNSのいいねを狙った無謀な売名行為にすぎなかった。) |
+| **suspect** | (名詞 / 動詞) | **sub-**（下から） | + **specere**（見る） | ⇒ 下から怪しんで見上げる | offender, person of interest | innocent person | **【意味】容疑者、被疑者** | 例文: *The police questioned the suspect for three hours.* (警察はその容疑者を3時間取り調べた。) |
 
 ---
 
@@ -177,17 +141,16 @@ I bought two books; ( a novel / is / is / the other / one / for English learning
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
-
+* Shorts (15秒): [【日本中が激怒】バズるために動物園の檻へ不法侵入したインフルエンサーの末路](https://youtube.com/shorts/CepHGDb0Y1A)
+* 長尺 (じっくり解説): [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！【英語学習 / リスニング】【作業用BGM】](https://youtu.be/ZwhqCHNsGN4)
 ---
 
 ## 📚 学習を加速させるおすすめツール
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 * **Amazonおすすめアイテム**
-* [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-* [本日の学習のベース「基礎英語2」関連書籍](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
+  * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://amzn.to/4eW2rAY)
+  * [本日の学習のベース「基礎英語2」関連書籍](https://amzn.to/4tNGvf9)
 
 
 

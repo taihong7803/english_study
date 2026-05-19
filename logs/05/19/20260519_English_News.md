@@ -159,8 +159,8 @@ I have two cameras; ( the other / for taking photos / is / one / for streaming /
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+* Shorts (15秒): [【日本中が激怒】バズるために動物園の檻へ不法侵入したインフルエンサーの末路](https://youtube.com/shorts/CepHGDb0Y1A)
+* 長尺 (じっくり解説): [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！【英語学習 / リスニング】【作業用BGM】](https://youtu.be/ZwhqCHNsGN4)
 
 ---
 
@@ -168,10 +168,8 @@ I have two cameras; ( the other / for taking photos / is / one / for streaming /
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-* [基礎英語2 関連書籍](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-
-
+  * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://amzn.to/4eW2rAY)
+  * [本日の学習のベース「基礎英語2」関連書籍](https://amzn.to/4tNGvf9)
 
 ---
 

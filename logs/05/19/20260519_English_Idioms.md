@@ -169,8 +169,8 @@ A serious incident occurred at Ichikawa City Zoo in Chiba Prefecture, Japan, whe
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+* Shorts (15秒): [【日本中が激怒】バズるために動物園の檻へ不法侵入したインフルエンサーの末路](https://youtube.com/shorts/CepHGDb0Y1A)
+* 長尺 (じっくり解説): [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！【英語学習 / リスニング】【作業用BGM】](https://youtu.be/ZwhqCHNsGN4)
 
 ---
 
@@ -178,10 +178,8 @@ A serious incident occurred at Ichikawa City Zoo in Chiba Prefecture, Japan, whe
 
 * **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 * **Amazonおすすめ**:
-* [ノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-* [キクジュク（英検2級レベル）](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-
-
+  * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://amzn.to/4eW2rAY)
+* [本日の学習のベース「基礎英語2」関連書籍](https://amzn.to/4tNGvf9)
 
 ---
 
