@@ -118,18 +118,16 @@ On May 20, 2026, NHK, Japan's public broadcaster, announced the resumption of di
 
 ## 📺 【音声解説】
 
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
-
+- [【酒田まつり】巨大な獅子が舞う！日本の伝統的なお祭りを体験しよう](https://youtube.com/shorts/0xabKCbU8GA)
+- [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！](https://youtu.be/ZwhqCHNsGN4)
 ---
 
 ## 📚 学習を加速させるおすすめツール
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.amazon.co.jp/)
-* [基礎英語2 関連書籍](https://www.amazon.co.jp/)
-
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 ---
