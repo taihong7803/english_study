@@ -110,16 +110,17 @@ The explosion caused the ( ) of ten people to the hospital. ( hospitalization / 
 ---
 
 ## 📺 【音声解説】
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+- [【銀座スプレー事件】25人搬送の衝撃ニュースで英語学習！](https://youtube.com/shorts/IYOlSlyMJx8)
+- [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！](https://youtu.be/ZwhqCHNsGN4)
 
 ---
 
 ## 📚 学習を加速させるおすすめツール
 - **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 - **Amazonおすすめアイテム**
-    - [愛用ノイキャンイヤホン](https://www.amazon.co.jp)
-    - [基礎英語2 関連書籍](https://www.amazon.co.jp)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
+
 
 ---
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**

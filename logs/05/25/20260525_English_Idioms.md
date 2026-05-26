@@ -96,13 +96,14 @@ To 'keep a tradition alive' in our modern era does not simply mean repeating the
 ---
 
 ## 📺 【音声解説】
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+- [相馬野馬追：1000年続く本物の侍の祭り](https://youtube.com/shorts/vsXTHtJUBGg)
+- [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！](https://youtu.be/ZwhqCHNsGN4)
 
 ## 📚 熟語学習をブーストするおすすめツール
 * **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 * **Amazonおすすめ**:
-    * [ノイキャンイヤホン](https://www.amazon.co.jp)
-    * [キクジュク（英検2級レベル）](https://www.amazon.co.jp)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
+
 
 **「頭痛の日でも、熟語1つ覚えた自分を褒めましょう！」**

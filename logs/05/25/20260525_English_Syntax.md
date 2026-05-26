@@ -92,13 +92,14 @@ In our rapidly changing digital world, traditional festivals serve as vital cult
 
 ---
 ## 📺 【音声解説】
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+- [相馬野馬追：1000年続く本物の侍の祭り](https://youtube.com/shorts/vsXTHtJUBGg)
+- [【英語ニュース一気見】AI電力・SpaceX宇宙開発・円安為替介入…今週の世界の最新トレンド5選！](https://youtu.be/ZwhqCHNsGN4)
 
 ## 📚 学習を加速させるおすすめツール
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 * **Amazonおすすめアイテム**
-    * [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.jp)
-    * [本日の学習のベース「基礎英語2」関連書籍](https://www.amazon.co.jp)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
+
 
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**
