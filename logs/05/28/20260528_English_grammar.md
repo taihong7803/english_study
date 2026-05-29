@@ -97,8 +97,8 @@ Hotels should implement stricter cleaning protocols and conduct regular unannoun
 ---
 
 ## 📺 【音声解説】
-- Shorts (15秒): [準備中] 
-- 長尺 (じっくり解説): [準備中]
+- [【衝撃】高級ホテルがこれ…客室タオルの信じられない使い回しの実態](https://youtube.com/shorts/vFrEAIHV92o)
+- [エンジニアが解説！日本の社会問題・文化・ニュースを英語で学ぶ1週間まとめ【5/17-5/22】](https://youtu.be/ESFupPaeJss)
 
 ---
 
