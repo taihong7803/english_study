@@ -67,41 +67,11 @@ According to the Japan Meteorological Agency, Typhoon No. 6 is approaching south
 
 | 単語 / 発音 | 意味 | 語源 (Root) | 類義語 / 反対語 | 別の応用例文 |
 | --- | --- | --- | --- | --- |
-| **approach** <br>
-
-<br>/əˈproʊtʃ/ | (動) 〜に接近する、近づく | ラテン語 *ad-* (〜へ) + *propius* (より近く) | 【類】near, advance <br>
-
-<br>【反】recede | Winter is **approaching** quickly. <br>
-
-<br>（冬が足早に近づいている。） |
-| **region** <br>
-
-<br>/ˈriːdʒən/ | (名) 地域、地方、地帯 | ラテン語 *regere* (支配する、線を引く) | 【類】area, zone, district <br>
-
-<br>【反】- | This **region** is famous for wine. <br>
-
-<br>（この地域はワインで有名です。） |
-| **torrential** <br>
-
-<br>/tɔːˈrenʃl/ | (形) (雨が)猛烈な、激しい | ラテン語 *torrere* (乾燥する・激流となる) | 【類】heavy, pouring <br>
-
-<br>【反】light, gentle | The match was delayed due to **torrential** rain. <br>
-
-<br>（猛烈な雨のため試合が遅れた。） |
-| **risk** <br>
-
-<br>/rɪsk/ | (名) 危険、恐れ、リスク | 古期イタリア語 *risco* (断崖絶壁を航行する) | 【類】danger, hazard, peril <br>
-
-<br>【反】safety, security | Starting a new business always involves **risk**. <br>
-
-<br>（新事業の立ち上げには常にリスクが伴う。） |
-| **center** <br>
-
-<br>/ˈsentər/ | (名) 中心、(台風の)目 | ギリシャ語 *kentron* (コンパスの針、中心点) | 【類】middle, core, heart <br>
-
-<br>【反】edge, periphery | Please place the flower pot in the **center** of the table. <br>
-
-<br>（植木鉢をテーブルの中心に置いてください。） |
+| **approach** <br><br>/əˈproʊtʃ/ | (動) 〜に接近する、近づく | ラテン語 *ad-* (〜へ) + *propius* (より近く) | 【類】near, advance 【反】recede | Winter is **approaching** quickly. （冬が足早に近づいている。） |
+| **region** <br><br>/ˈriːdʒən/ | (名) 地域、地方、地帯 | ラテン語 *regere* (支配する、線を引く) | 【類】area, zone, district <br/><br/>【反】- | This **region** is famous for wine. <br><br>（この地域はワインで有名です。） |
+| **torrential** <br><br>/tɔːˈrenʃl/ | (形) (雨が)猛烈な、激しい | ラテン語 *torrere* (乾燥する・激流となる) | 【類】heavy, pouring <br><br>【反】light, gentle | The match was delayed due to **torrential** rain. <br><br>（猛烈な雨のため試合が遅れた。） |
+| **risk** <br><br>/rɪsk/ | (名) 危険、恐れ、リスク | 古期イタリア語 *risco* (断崖絶壁を航行する) | 【類】danger, hazard, peril <br><br>【反】safety, security | Starting a new business always involves **risk**. <br><br>（新事業の立ち上げには常にリスクが伴う。） |
+| **center** <br><br>/ˈsentər/ | (名) 中心、(台風の)目 | ギリシャ語 *kentron* (コンパスの針、中心点) | 【類】middle, core, heart <br><br>【反】edge, periphery | Please place the flower pot in the **center** of the table. <br><br>（植木鉢をテーブルの中心に置いてください。） |
 
 ---
 
@@ -161,9 +131,8 @@ According to the Japan Meteorological Agency, Typhoon No. 6 is approaching south
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-* [基礎英語2 関連書籍](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF)
-
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 ---

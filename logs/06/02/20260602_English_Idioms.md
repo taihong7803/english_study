@@ -376,8 +376,8 @@ In the contemporary world, learning to dissect natural disaster and weather repo
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 * **Amazonおすすめアイテム**
-* [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF) - 雑音を消し去り、生の英語ニュースのリスニングに100%集中できる必須ガジェット。
-* [本日の学習のベース「基礎英語2」関連書籍](https://www.google.com/search?q=%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AF) - 中学英語の土台を大人が最速で復習するための、信頼のベストセラー教材。
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 

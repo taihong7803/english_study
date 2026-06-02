@@ -143,8 +143,7 @@ The authorities set ( 1. in / 2. up / 3. off ) barriers to keep hikers ( 4. out 
 ## 📚 熟語学習をブーストするおすすめツール
 *   **Kindle本（執筆中）:** [ネイティブの感覚で捉える英熟語図録]
 *   **Amazonおすすめ:**
-    *   [ノイキャンイヤホン](https://www.amazon.co.jp/)
-    *   [キクジュク（英検2級レベル）](https://www.amazon.co.jp/)
-
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 ---
 **「頭痛の日でも、熟語1つ覚えた自分を褒めましょう！」**
