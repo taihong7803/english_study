@@ -2,56 +2,64 @@
 
 ## 1. 【ニュース概要と引用元】
 
-**English:**
-On June 5, 2026, Reuters reported that Ukrainian President Volodymyr Zelenskyy has sent a formal letter to Russian President Vladimir Putin, proposing a direct summit to negotiate an end to the ongoing war. This move comes as both nations face increasing pressure due to economic fatigue and military stagnation. The international community is closely watching how the Kremlin will respond to this unexpected overture. Learning about this development is essential, as it highlights the volatile nature of global diplomacy and the persistent search for peace in a fractured geopolitical landscape.
+**[News Summary]**
+Tensions have intensified around the Senkaku Islands as Chinese coast guard vessels repeatedly entered Japanese territorial waters and pressured a local fishing boat. This confrontation, characterized by radio warnings and close-range maneuvering, highlights the broader geopolitical instability in East Asia. China, which is accelerating its maritime expansion, has been conducting military drills near Taiwan and the Senkaku Islands, projecting its influence. For the international community, understanding these regional dynamics is essential, as the situation could significantly impact global security and trade routes. Learning this topic helps us grasp how sovereign disputes are managed through diplomatic and coast guard communication.
 
-**日本語訳:**
-2026年6月5日、ロイター通信は、ウクライナのゼレンスキー大統領がロシアのプーチン大統領に対し、戦争終結を交渉するための直接首脳会談を提案する公式書簡を送ったと報じました。この動きは、両国が経済的疲弊と軍事的な停滞により、かつてない圧力に直面する中で行われました。国際社会は、クレムリンがこの予期せぬ提案にどのように応じるかを注視しています。この進展について学ぶことは、世界外交の流動的な性質と、断片化した地政学的状況の中での執拗な平和の模索を理解する上で不可欠です。
+**[日本語訳]**
+尖閣諸島周辺で、中国海警局の船が日本の領海に繰り返し侵入し、日本の漁船に対して威圧的な行動をとったことで緊張が高まっています 。無線による警告や近距離での機動を伴うこの対立は、東アジアにおける広範な地政学的な不安定さを浮き彫りにしています 。海洋進出を加速させている中国は、台湾や尖閣諸島周辺で軍事演習を行い、その影響力を示そうとしています 。国際社会にとって、こうした地域の動向を理解することは、世界の安全保障や通商ルートに大きな影響を与える可能性があるため不可欠です 。このトピックを学ぶことは、領有権争いが外交や海上保安のコミュニケーションを通じてどのように管理されているかを把握する助けとなります。
 
-* **引用元メディア名:** ロイター (Reuters)
-* **記事URL:** [https://www.reuters.com](https://www.reuters.com) (※2026年6月5日付報道内容に基づく)
+* 
+**引用元:** 日テレNEWS NNN 
+
+
+* 
+**URL:** [https://news.yahoo.co.jp/articles/b992167701b84c32bba7168361bdd00f0510a75e](https://news.yahoo.co.jp/articles/b992167701b84c32bba7168361bdd00f0510a75e) 
+
+
 
 ---
 
 ## 2. 【今日の一文と全訳】
 
-**Featured Sentence:**
-"President Zelenskyy has **called for** a direct summit to **bring about** an end to the conflict and **look into** potential peace terms."
+> 
+> **"The Senkaku Islands are Japanese territory, and your claim is unacceptable. You are intruding into Japanese territorial waters; leave immediately."** 
+> 
+> 
 
 **日本語訳:**
-「ゼレンスキー大統領は、紛争を終結させ、潜在的な和平条件を検討するために、直接の首脳会談を求めた。」
+「尖閣諸島は日本の領土であり、貴船の主張は受け入れられない。貴船は日本の領海に侵入している。ただちに退去せよ」
 
 ---
 
 ## 3. 【英熟語・イディオムの徹底解剖】
 
-### ① call for
+### 1. Intrude into (～に侵入する・割り込む)
 
-* **コアイメージ:** 「外に向かって（call）声をかけて、やってくるように（for）求める」。必要性や要求を公に主張すること。
-* **ネイティブのニュアンス:** 単なる依頼よりも、強い正当性や必要性を持って「〜を要求する」「〜を必要とする」という響きがあります。
-* **応用例文:**
-* （ビジネス）The shareholders **called for** an immediate investigation into the losses.（株主たちは損失に関する即時調査を求めた。）
-* （日常）This task **calls for** patience and focus.（この仕事には忍耐と集中力が必要だ。）
-
-
-
-### ② bring about
-
-* **コアイメージ:** ある物事を「ある状態まで運んでくる（bring）」こと。結果として何かを「引き起こす」「実現させる」。
-* **ネイティブのニュアンス:** 意図的に変化を起こす場合によく使われます。物事が自然に起きるのではなく、努力や状況の変化によって「達成する」というニュアンスです。
-* **応用例文:**
-* （ビジネス）New leadership can **bring about** significant improvements.（新しいリーダーシップは大きな改善を実現できる。）
-* （日常）Technology has **brought about** many changes in our daily lives.（技術は我々の日常生活に多くの変化をもたらした。）
+* **コアイメージ:** "In"（中に）+ "trude"（突き刺す）。本来いるべきではない場所に、無理やり力ずくで入り込むという攻撃的なニュアンス。
+* **ネイティブの感覚:** 招かれざる客や許可のない領域に対して「土足で踏み込む」ような不快感を伴う。
+* **実戦応用例文:**
+* (ビジネス) I'm sorry to **intrude into** your busy schedule, but I need a moment.（お忙しいところ恐縮ですが、少しお時間を割いていただけますか。）
+* (日常) Loud music from the neighbors **intruded into** my quiet evening.（隣人の大きな音楽が、私の静かな夜を台無しにした。）
 
 
 
-### ③ look into
+### 2. Stand off (対峙する・膠着状態にある)
 
-* **コアイメージ:** 中（into）を覗き込む（look）こと。調査や検討をする。
-* **ネイティブのニュアンス:** 表面だけでなく、何が起きているのか「内情を調べる」という姿勢。警察の捜査やビジネスの調査で多用されます。
-* **応用例文:**
-* （ビジネス）We need to **look into** the possibility of expanding our market.（市場拡大の可能性を検討する必要がある。）
-* （日常）I will **look into** the flight schedules for our trip.（旅行のフライトスケジュールを調べておくよ。）
+* **コアイメージ:** "Stand"（立つ）+ "off"（離れて）。お互いが一定の距離を保ちつつ、一歩も引かない緊迫した状態。
+* **ネイティブの感覚:** 銃を突きつけ合ったまま動かない、あるいは交渉が決裂して両者が睨み合っている状態。
+* **実戦応用例文:**
+* (ビジネス) Both parties have reached a **standoff** regarding the contract terms.（両当事者は契約条件について膠着状態に陥った。）
+* (日常) The cat and the dog had a tense **standoff** over the food bowl.（猫と犬がエサ入れを巡って緊迫した睨み合いをしていた。）
+
+
+
+### 3. Act on / Act under (～に基づいて行動する)
+
+* **コアイメージ:** "Under"（～の下で）。権限や命令、法などの影響力の下にいて、それに従うという従属性。
+* **ネイティブの感覚:** 自分の意思というよりは、背後にある規定や命令に従って動くという、組織的な響きがある。
+* **実戦応用例文:**
+* (ビジネス) The staff **acted under** direct orders from the CEO.（スタッフはCEOからの直接命令に基づいて行動した。）
+* (日常) He was **acting under** the mistaken belief that the shop was open.（彼は店が空いているという誤った認識のもとで行動していた。）
 
 
 
@@ -59,18 +67,18 @@ On June 5, 2026, Reuters reported that Ukrainian President Volodymyr Zelenskyy h
 
 ## 4. 【語彙の広がり：類義熟語と反対表現】
 
-* **言い換え可能な熟語 (Synonyms):**
-* `call for` ⇔ `demand`, `require`, `ask for`
-* `bring about` ⇔ `cause`, `lead to`, `effect`
-* `look into` ⇔ `investigate`, `examine`, `check out`
+* **Synonymous Phrases (類義熟語):**
+* **Break into**: （強引に）侵入する。*Intrude*よりも物理的な破壊や突発性を強調する。
+* **Lock in**: 膠着状態にする。*Stand-off*に至る前の、選択肢が狭まった状態。
 
 
-* **反対の意味を持つ熟語 (Antonyms):**
-* `bring about` (実現する) ⇔ `put an end to` (終わらせる), `prevent` (防ぐ)
+* **Antonymous Phrases (反対表現):**
+* **Back down**: （要求や立場を）撤回する、引き下がる。*Stand-off*の解消。
+* **Withdraw from**: ～から撤退する。*Intrude into*の真逆の動き。
 
 
-* **ひっかけ熟語（前置詞による変化）:**
-* `look into`（調査する） vs `look for`（探す） vs `look after`（世話をする）
+* **ひっかけ熟語の比較:**
+* **Get into**: （習慣や場所に入る）と **Intrude into**（侵入する）の違い。*Get into*は中立的・ポジティブなニュアンスも含むが、*Intrude*は常にネガティブな「邪魔」や「侵犯」を意味する。
 
 
 
@@ -78,38 +86,53 @@ On June 5, 2026, Reuters reported that Ukrainian President Volodymyr Zelenskyy h
 
 ## 5. 【実践：熟語使いこなし演習】
 
-**Q1. 空欄補充:**
-The government is ( ) ( ) the reasons for the sudden economic downturn.
+**Q1. 空欄補充（適切な前置詞を入れる）**
+The military forces decided to withdraw __________ the disputed region to ease tensions.
+（軍は緊張緩和のため、紛争地域から撤退することを決定した。）
+→ **解答: from**
+解説: 「～から撤退する」は *withdraw from* を用いる。
 
-* **解答:** looking / into
-* **解説:** 「調査する」という意味のlook intoが適切。
+**Q2. 英作文（指示に従う）**
+「私は彼の決断に従って行動した」を *act* を使って英作文せよ。
+→ **解答: I acted under his decision.**
+解説: 決定や命令などの影響下にある場合は *under* を使用する。
 
-**Q2. 英作文:**
-「平和を実現することは、対話にかかっている」という文を、bring aboutを使って作成せよ。
-
-* **解答:** Bringing about peace depends on dialogue.
-* **解説:** 熟語を主語（動名詞）として使う形式です。
-
-**Q3. 前置詞選択:**
-The situation calls ( ) an immediate response from the board members.
-
-* **解答:** for
-* **解説:** 「〜を必要とする、求める」はcall for。
+**Q3. 意味選択（正しい意味を選べ）**
+"The negotiations ended in a standoff." の意味として適切なものは？
+A. 合意に達した B. 膠着状態になった C. 完全に中止された
+→ **解答: B**
+解説: *Stand-off* は両者が睨み合い、動けない状態を指す。
 
 ---
 
 ## 6. 【AI's Insight: 熟語で読み解く時代の空気】
 
 **Topic Question:**
-"In an era where military and economic tensions are high, what does it mean to 'call for' peace through direct diplomatic channels?"
+How can nations avoid a *standoff* turning into a real conflict in modern maritime disputes?
 
 **Model Answer:**
-To 'call for' peace in such times is not merely an expression of hope; it is a strategic act of public accountability. By publicly inviting a counterpart to a summit, leaders 'bring about' a situation where refusal to talk becomes visible to the global community, thereby forcing all sides to 'look into' the feasibility of compromise, even when the path is fraught with suspicion.
+To prevent a **standoff** from escalating into a full-scale conflict, it is crucial for nations to maintain open channels of communication. Instead of **intruding into** sensitive territorial waters, countries should rely on established international protocols. When leaders choose to **back down** from aggressive posturing in favor of diplomatic dialogue, they uphold global security.
 
 **日本語訳:**
-「軍事的・経済的緊張が高い時代において、直接的な外交ルートを通じて平和を『call for（求める）』ことは何を意味するのか？」
-「このような時代に平和を求めることは、単なる希望の表明ではなく、公的な責任を問う戦略的な行為です。公の場で相手を首脳会談に招待することで、指導者は『対話を拒否することが国際社会に明らかになる状況』を自ら作り出し、結果として、どれほど疑念に満ちた道のりであっても、妥協の可能性を『検討せざるを得ない状況』へ全ての当事者を追い込むのです。」
+【問い】現代の海洋紛争において、対峙状態（standoff）が実際の紛争に発展するのを防ぐにはどうすればよいでしょうか？
+【模範回答】膠着状態が全面的な紛争にエスカレートするのを防ぐには、各国がオープンなコミュニケーションルートを維持することが重要です。デリケートな領海に「土足で踏み込む（intrude into）」のではなく、確立された国際的なプロトコルに依拠すべきです。指導者たちが外交対話のために攻撃的な姿勢を「撤回（back down）」することを選択すれば、世界の安全保障を維持することができます。
 
 ---
 
-**「頭頭の日でも、熟語1つ覚えた自分を褒めましょう！」**
+## 📺 【音声解説】
+
+* Shorts (15秒): [準備中]
+* 長尺 (じっくり解説): [準備中]
+
+---
+
+## 📚 熟語学習をブーストするおすすめツール
+
+* **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
+* **Amazonおすすめ**:
+* [ノイキャンイヤホン](https://www.amazon.co.jp)
+* [キクジュク（英検2級レベル）](https://www.amazon.co.jp)
+
+
+
+**「頭痛の日でも、熟語1つ覚えた自分を褒めましょう！」**
