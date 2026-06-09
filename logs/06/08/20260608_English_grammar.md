@@ -126,8 +126,8 @@ Lawson is focusing on this format to meet the growing demand from single-person 
 ## 📚 学習を加速させるおすすめツール
 *   **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 *   **Amazonおすすめアイテム**
-    *   [ノイキャンイヤホン](https://www.amazon.co.jp/s?k=noise+cancelling+earbuds)
-    *   [基礎英語2 関連書籍](https://www.amazon.co.jp/s?k=基礎英語2)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 ---
 

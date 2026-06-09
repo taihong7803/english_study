@@ -79,13 +79,13 @@ Model Answer:
 ---
 
 ## 📺 【音声解説】
-- Shorts (15秒): [準備中]
-- 長尺 (じっくり解説): [準備中]
+* Shorts (15秒): [ニシンが食卓の主役！？意外と知らないニシンの魅力](https://youtube.com/shorts/qrwecYrNmk4)
+* 長尺 (じっくり解説): [心地よい日本を英語で楽しむ。エンジニアの英語パース実況｜1週間の振り返り](https://youtu.be/ih0iI9NIApI)
 
 ## 📚 熟語学習をブーストするおすすめツール
 - **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 - **Amazonおすすめ**:
-    - [ノイキャンイヤホン](https://www.amazon.co.jp)
-    - [キクジュク（英検2級レベル）](https://www.amazon.co.jp)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 **「頭痛の日でも、熟語1つ覚えた自分を褒めましょう！」**

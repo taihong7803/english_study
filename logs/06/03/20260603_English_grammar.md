@@ -112,8 +112,8 @@
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [ノイキャンイヤホン](https://www.amazon.co.jp) - 集中力を高めるために。
-* [基礎英語2 関連書籍](https://www.amazon.co.jp) - 文法基礎の確認に。
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 

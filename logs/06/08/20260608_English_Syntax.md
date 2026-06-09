@@ -110,8 +110,8 @@ I believe this format will likely become a major trend in urban areas like Tokyo
 ## 📚 学習を加速させるおすすめツール
 *   **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 *   **Amazonおすすめアイテム**
-    *   [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.jp/s?k=noise+cancelling+earbuds)
-    *   [本日の学習のベース「基礎英語2」関連書籍](https://www.amazon.co.jp/s?k=基礎英語2)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 ---
 

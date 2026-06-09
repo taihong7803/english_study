@@ -130,8 +130,8 @@ To prevent a **standoff** from escalating into a full-scale conflict, it is cruc
 
 * **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 * **Amazonおすすめ**:
-* [ノイキャンイヤホン](https://www.amazon.co.jp)
-* [キクジュク（英検2級レベル）](https://www.amazon.co.jp)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 

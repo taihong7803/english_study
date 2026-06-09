@@ -117,16 +117,16 @@ In Japan, the staple fish 'mackerel' is facing a severe supply crisis. Due to dr
 ---
 
 ## 📺 【音声解説】
+* Shorts (15秒): [ニシンが食卓の主役！？意外と知らないニシンの魅力](https://youtube.com/shorts/qrwecYrNmk4)
+* 長尺 (じっくり解説): [心地よい日本を英語で楽しむ。エンジニアの英語パース実況｜1週間の振り返り](https://youtu.be/ih0iI9NIApI)
 
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
 
 ## 📚 学習を加速させるおすすめツール
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 * **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.amazon.co.jp/)
-* [基礎英語2 関連書籍](https://www.amazon.co.jp/)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 

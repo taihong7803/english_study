@@ -117,9 +117,8 @@ The integration of sensors undeniably enhances competition by providing objectiv
 
 * **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 * **Amazonおすすめアイテム**
-* [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](https://www.amazon.co.jp)
-* [本日の学習のベース「基礎英語2」関連書籍](https://www.amazon.co.jp)
-
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 
 ---

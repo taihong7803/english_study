@@ -136,8 +136,8 @@ In the modern Japanese economy, labor costs and operational expenses are rising.
 ## 📚 熟語学習をブーストするおすすめツール
 *   **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 *   **Amazonおすすめ**:
-    *   [ノイキャンイヤホン](https://www.amazon.co.jp/s?k=noise+cancelling+earbuds)
-    *   [キクジュク（英検2級レベル）](https://www.amazon.co.jp/s?k=キクジュク+英検2級)
+    - [ノイキャンイヤホン](https://amzn.to/4nKYGk4)
+    - [とてつもなくおもしろい英文法の世界](https://amzn.to/3PHJKqa)
 
 ---
 
