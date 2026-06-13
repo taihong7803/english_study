@@ -1,124 +1,76 @@
-# Daily English Learning: 2026-06-13 
-
-> [Target Level]: 中学英語の復習から英検2級を目指す大人の学び直しに最適
+# Daily English Learning: 2026-06-13 > [Target Level]: 中学英語の復習から英検2級を目指す大人の学び直しに最適
 
 ## 1. 【ニュース概要と社会的背景】 (News Summary & Background)
 
-**[English Summary]**
-On June 13, 2026, the city of Ahmedabad, India, held a solemn memorial event titled "'A Day of Remembrance, Unity And Justice'" to mark the first anniversary of the tragic Air India AI-171 plane crash. This event brought together the families of the victims to honor their memories and foster a sense of collective healing. The accident, which occurred one year ago, shocked the global aviation community and highlighted the critical importance of safety standards and the ongoing support needed for the bereaved families. As the world observes this anniversary, it serves as a necessary reminder that public transportation safety is not just a technical issue but a deeply human one that impacts countless lives across borders.
+### English Summary
+The Cool Japan Fund, a public-private partnership established in 2013 to promote Japanese culture such as food and anime abroad, is now facing potential abolition. The government is considering this move as the fund’s cumulative deficit has expanded significantly, reaching 38.3 billion yen by the end of fiscal year 2024. The recent decision by Spiber, a biotech materials firm that received a large investment from the fund, to enter private liquidation has intensified the crisis. This situation raises serious questions about the effectiveness of government investment, risk management, and the accountability of public funding in soft power strategies. Understanding this topic is crucial for analyzing the intersection of economic policy, cultural diplomacy, and the necessity of financial sustainability.
 
-**[日本語訳]**
-2026年6月13日、インドのアーメダバードにて、エア・インディアAI-171便墜落事故の1周忌を迎え、「追悼、団結、そして正義の日」と題された厳かな追悼イベントが開催されました。このイベントは、犠牲者の家族が一堂に会し、故人を偲び、集団的な癒やしを育む場となりました。1年前に発生したこの事故は世界の航空業界に衝撃を与え、安全基準の重要性や、遺族に対する継続的な支援の必要性を浮き彫りにしました。この1周忌に際し、公共交通機関の安全は単なる技術的な問題ではなく、国境を越えて無数の人々の人生に影響を与える、深く人間的な問題であることを世界は再認識しています 。
-
----
+### 日本語訳
+日本の食やアニメなどの文化を海外へ売り込むことを目的に、2013年に設立された官民ファンド「クールジャパン機構」が廃止の危機に直面しています。投資先である新興企業の業績が振るわず、2024年度末時点で累積赤字が383億円に達したことを受け、政府は廃止を視野に入れた統廃合を検討しています。約140億円を出資したバイオ素材企業スパイバーの私的整理決定が追い打ちをかけました。多額の公的資金が投入されている本件は、投資判断やリスク管理の妥当性を問う大きな社会問題となっています。経済のグローバル化と日本のソフトパワー戦略の矛盾を考える上で、このニュースは極めて重要です。
 
 ## 2. 【今日の一文と全訳】 (Featured Sentence)
 
-**[Featured Sentence]**
-"Family members of victims of the Air India AI-171 plane crash attend 'A Day of Remembrance, Unity And Justice' event organised on the first anniversary of the tragedy, in Ahmedabad." 
-
-**[日本語訳]**
-エア・インディアAI-171便墜落事故の犠牲者家族が、インドのアーメダバードにて、悲劇から1周年を記念して開催された「追悼、団結、そして正義の日」イベントに出席した。 
-
-**[引用元]**
-
-* メディア名: Deccan Herald 
-
-
-* URL: [https://www.deccanherald.com/india/news-in-pics-june-13-2026-best-photos-from-around-the-world-4037642](https://www.deccanherald.com/india/news-in-pics-june-13-2026-best-photos-from-around-the-world-4037642) 
-
-
-
----
+- **引用元メディア名**: 共同通信
+- **記事URL**: https://news.yahoo.co.jp/articles/bedb8eb3a9b35d91744a979ac8b5e900aa3fbd8b
+- **Featured Sentence**: "The government is considering the abolition of the Cool Japan Fund due to its expanding cumulative deficit."
+- **日本語訳**: 「政府は、累積赤字が拡大していることを受け、クールジャパン機構の廃止を検討している。」
 
 ## 3. 【英文法・構文の徹底解説】 (Grammar & Syntax)
 
-**① 過去分詞の後置修飾**
+1. **現在進行形 (is considering)**
+   - **解説**: 「今まさに検討している」という動作の継続を表します。単なる現在形よりも「現在進行中のプロセス」を強調します。
+   - **応用例文**: The company is considering a new marketing strategy.（その会社は新しいマーケティング戦略を検討中だ。）
 
-* **解説**: 本文中の `event organised on...` のように、名詞の直後に過去分詞を置いてその名詞を詳しく説明します。これは `event (which was) organised...` という関係代名詞＋be動詞の省略と捉えると理解が早まります。
-* **応用例文**: The movie **directed by a young filmmaker** won the grand prize. （若き映画監督によって監督されたその映画は、グランプリを受賞した。）
+2. **前置詞句 (due to)**
+   - **解説**: 「〜が原因で」という意味で、ネガティブな理由に使われることが多い前置詞句です。Because ofと似ていますが、より公式な文書や報道で好まれます。
+   - **応用例文**: The game was delayed due to the bad weather.（悪天候のため、試合は遅延した。）
 
-**② 前置詞「of」の連続使用（所有・所属）**
-
-* **解説**: `Family members of victims of the crash` のように、英語では「CのBのA」という順序で `A of B of C` と繋げます。日本語とは語順が逆になるため、後ろから修飾関係を読み解くのがコツです。
-* **応用例文**: The price **of** the stock **of** this company is rising. （この会社の株の価格が上昇している。）
-
-**③ 特定の日時・記念日と前置詞「on」**
-
-* **解説**: 特定の日付（June 13th）や曜日、あるいは「記念日（anniversary）」などの特定の行事の日には前置詞 `on` を用います。
-* **応用例文**: We will have a meeting **on** the tenth anniversary of the project. （そのプロジェクトの10周年記念日に会議を行う予定だ。）
-
----
+3. **現在分詞の形容詞的用法 (expanding cumulative deficit)**
+   - **解説**: 「拡大している〜」という進行中の状態を名詞に付け加えます。分詞が名詞を修飾する際は、名詞の直前に置くのが基本です。
+   - **応用例文**: We need to address the rising cost of living.（私たちは上昇する生活費に対処する必要がある。）
 
 ## 4. 【重要語彙・フレーズ】 (Vocabulary)
 
 | 単語 | 語源 (Root) | 類義語 | 反対語 |
-| --- | --- | --- | --- |
-| **Victim** | ラテン語: victima (生贄) | Sufferer, Casualty | Survivor |
-| **Anniversary** | ラテン語: annus(年) + versus(回る) | Commemoration | - |
-| **Tragedy** | ギリシャ語: tragoidia (悲歌) | Disaster, Catastrophe | Triumph |
-| **Organise** | ギリシャ語: organon (道具) | Arrange, Coordinate | Disarrange |
-| **Remembrance** | re(再び) + memor(記憶) | Memory, Recollection | Oblivion |
+| :--- | :--- | :--- | :--- |
+| **Abolition** | abolish (取り消す) | Cancellation | Establishment |
+| **Cumulative** | cumulus (積み重なる) | Increasing | Decreasing |
+| **Deficit** | deficit (足りない) | Loss, Shortfall | Surplus |
+| **Expanding** | ex- + pandere (広げる) | Growing, Widening | Shrinking |
+| **Investment** | in- + vestire (服を着せる) | Funding, Stake | Divestment |
 
-* **Victim 例文**: The charity provides support for the victims of the flood.
-* **Anniversary 例文**: We are celebrating our 10th anniversary this month.
-* **Tragedy 例文**: It is a tragedy that so many young lives were lost.
-* **Organise 例文**: They organised a meeting to discuss the new project.
-* **Remembrance 例文**: A ceremony was held in remembrance of the late leader.
-
----
+* **例文**: The cumulative effect of these small changes led to a big result.（これら小さな変化の積み重ねが大きな結果をもたらした。）
 
 ## 5. 【実践演習】 (Exercises)
 
-**Q1. 並べ替え問題**
-「昨日発表された計画は、多くの人々を驚かせた。」
-(the plan / announce / yesterday / surprise / many people)
+1. **並べ替え問題**: ( deficit / government / the / the / is / expanding / considering / abolition / of / )
+   - **解答**: The government is considering the abolition of the expanding deficit.
+   - **解説**: 主語(The government) + 動詞(is considering) + 目的語(the abolition of the expanding deficit)の基本構造を作ります。
 
-* **解答**: The plan announced yesterday surprised many people.
-* **解説**: 「発表された計画」を `The plan announced yesterday` と過去分詞で後置修飾します。
+2. **書き換え問題**: "Due to the deficit, they will stop the project." を「because of」を用いて書き換えなさい。
+   - **解答**: They will stop the project because of the deficit.
+   - **解説**: 「due to」を「because of」に置き換えるだけで、意味は同じく「原因」を表します。
 
-**Q2. 空所補充問題**
-"The ceremony is scheduled ( ) June 13th."
-
-* **解答**: on
-* **解説**: 特定の日付の前には必ず `on` を使用します。
-
-**Q3. 英作文問題**
-「有名な芸術家によって描かれたその絵画は、とても美しい。」（Hint: paint/painting, artist）
-
-* **解答**: The painting painted by the famous artist is very beautiful.
-* **解説**: `The painting` を `painted by the famous artist` が後ろから説明しています。
-
----
+3. **英作文**: 「政府は赤字が拡大しているため、新しい政策を検討している」を英語にしなさい。
+   - **解答**: The government is considering a new policy because the deficit is expanding.
+   - **解説**: 節(because...)を使うことで、より明確な理由を表現できます。
 
 ## 6. 【AI's Insight & Discussion】
 
-**Topic Question**: Why do societies hold memorial events for tragedies?
-
-**Model Answer**:
-"Memorial events serve as a space for collective healing and validation of grief. They also act as a formal commitment to ensuring that the lessons learned from the tragedy are passed on to future generations to prevent recurrence."
-
-**日本語訳**:
-「追悼イベントは、集団的な癒やしと悲しみの共有のための空間として機能します。また、悲劇から学んだ教訓を次世代に引き継ぎ、再発を防ぐための公式な誓いの場でもあります。」
+- **Topic Question**: "Do you think government-funded investment projects in culture are necessary for a nation's future?"
+- **Model Answer**: "In my view, while cultural promotion is important, financial sustainability must come first. If a project fails to show clear results and accumulates debt, the government should be accountable and consider restructuring or ending it, just like the Cool Japan Fund."
+- **日本語訳**: 「文化振興は重要ですが、私の意見では、財政的な持続可能性が何よりも優先されるべきです。もしプロジェクトが明確な結果を出せず赤字を蓄積させるなら、クールジャパン機構のように、政府は説明責任を果たし、再編や廃止を検討すべきです。」
 
 ---
-
 ## 📺 【音声解説】
-
-* Shorts (15秒): [準備中]
-* 長尺 (じっくり解説): [準備中]
+Shorts (15秒): [準備中] - 長尺 (じっくり解説): [準備中]
 
 ---
-
 ## 📚 学習を加速させるおすすめツール
-
-* **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
-* **Amazonおすすめアイテム**
-* [愛用ノイキャンイヤホン](https://www.amazon.co.jp)
-* [基礎英語2 関連書籍](https://www.amazon.co.jp)
-
-
+- **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
+- **Amazonおすすめアイテム**
+    - [愛用ノイキャンイヤホン](https://www.amazon.co.jp)
+    - [基礎英語2 関連書籍](https://www.amazon.co.jp)
 
 ---
-
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**

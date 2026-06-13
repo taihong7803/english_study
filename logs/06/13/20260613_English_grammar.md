@@ -1,112 +1,102 @@
+
 # Daily English Learning: 2026-06-13
+> [Target Level]: 中学英語の復習から英検2級を目指す大人の学び直しに最適
 
 ## 1. 【今日の一文】
+The Japanese government is considering abolishing the Cool Japan Fund due to its expanding cumulative deficit.
+（日本政府は、累積赤字が拡大していることを受け、クールジャパン機構の廃止を検討している。）
 
-実在するニュースメディアより、今日のトピックを象徴する一文を引用します。
-
-> **"Family members of victims of the Air India AI-171 plane crash attend 'A Day of Remembrance, Unity And Justice' event organised on the first anniversary of the tragedy, in Ahmedabad."**
-> （エア・インディアAI-171便墜落事故の犠牲者の家族たちが、アーメダバードで開催された、悲劇から1周年を記念する「追悼、団結、そして正義の日」イベントに出席した。）
-
-* **引用元メディア名**: Deccan Herald
-* **記事URL**: [https://www.deccanherald.com/india/news-in-pics-june-13-2026-best-photos-from-around-the-world-4037642](https://www.deccanherald.com/india/news-in-pics-june-13-2026-best-photos-from-around-the-world-4037642)
+* **引用元メディア名**: Yahoo!ニュース（共同通信）
+* **記事URL**: https://news.yahoo.co.jp/articles/bedb8eb3a9b35d91744a979ac8b5e900aa3fbd8b
 
 ---
 
 ## 2. 【英文法・構文の徹底解説】
 
-今回の文には、英検2級レベルで必須となる重要な構文が含まれています。
+### ① 現在進行形 (be considering)
+* **公式**: be動詞 + 現在分詞 (-ing)
+* **意味**: 「〜しているところだ」「〜しようとしている（予定・検討）」
+* **解説**: 本文では "is considering" で「検討している最中である」という進行中の動作を表しています。進行形は単なる現在の動作だけでなく、近い将来の計画や、現在進行中の検討事項を示すのによく使われます。
+* **応用例文**: They are discussing the budget for the next fiscal year.（彼らは来年度の予算について議論している。）
 
-### ① 過去分詞の後置修飾 (Participle Phrase)
+### ② 前置詞 due to
+* **意味**: 「〜が原因で」「〜のために」
+* **解説**: 原因や理由を表す表現です。"because of" と似ていますが、"due to" はより客観的・公式な文脈で好まれます。ニュース記事では、何らかの事象の原因を説明する際に多用されます。
+* **応用例文**: The flight was delayed due to heavy rain.（激しい雨のために、フライトは遅延した。）
 
-* **公式**: 名詞 ＋ 過去分詞 ～（…された名詞）
-* **解説**: 文中の「event organised on...」において、organised（組織された）という過去分詞が、直前の event を後ろから詳しく説明しています。関係代名詞の省略（event *which was* organised...）と考えると理解しやすいです。
-* **応用例文**: The report **written by the journalist** was very impressive.（そのジャーナリストによって書かれたレポートは、非常に印象的だった。）
-
-### ② 記念日やイベントを表す前置詞の用法
-
-* **解説**: 「on the first anniversary」とあるように、特定の記念日や日付には前置詞「on」を用います。
-* **応用例文**: We held a party **on our wedding anniversary**.（結婚記念日にパーティーを開いた。）
+### ③ 現在完了形 (受動態との組み合わせ)
+* **公式**: has/have + been + 過去分詞
+* **意味**: 「〜されてしまった（完了・結果）」
+* **解説**: 累積赤字の拡大など、過去から現在に至るまでの状態の変化を表現します。"its cumulative deficit has expanded"（累積赤字が拡大した）と能動で書くことも可能ですが、ニュースでは状況の重大さを強調するために完了形が頻出します。
+* **応用例文**: The company's performance has worsened significantly.（その会社の業績は著しく悪化した。）
 
 ---
 
 ## 3. 【重要語彙・フレーズ】
 
-1. **Victim (n)**: 犠牲者、被害者
-* 語源: ラテン語の *victima*（生贄）から。
-* 類義語: Sufferer, casualty.
-* 例文: The charity provides support for the **victims** of the flood.
-
-
-2. **Anniversary (n)**: 記念日
-* 語源: ラテン語の *annus*（年）＋ *versus*（回る）。
-* 例文: We are celebrating our 10th **anniversary** this month.
-
-
-3. **Tragedy (n)**: 悲劇
-* 類義語: Disaster, catastrophe.
-* 例文: It is a **tragedy** that so many young lives were lost.
-
-
-4. **Organise (v)**: 組織する、催す
-* 類義語: Arrange, coordinate.
-* 例文: They **organised** a meeting to discuss the new project.
-
-
-5. **Remembrance (n)**: 追悼、記憶
-* 類義語: Memory, commemoration.
-* 例文: A ceremony was held in **remembrance** of the late leader.
-
-
+1.  **Abolish** (動詞): 廃止する、撤廃する
+    * **語源**: ラテン語「abolescere（消え去る）」から。
+    * **類義語**: Repeal, cancel, end.
+    * **例文**: The government decided to abolish the outdated law.（政府はその時代遅れの法律を廃止することを決定した。）
+2.  **Cumulative** (形容詞): 累積的な、累積の
+    * **意味**: 徐々に蓄積されていく様子。
+    * **類義語**: Accumulated, aggregate.
+    * **例文**: The cumulative effect of these small changes is significant.（これら小さな変化の累積効果は大きい。）
+3.  **Deficit** (名詞): 赤字、不足分
+    * **意味**: 支出が収入を上回る状態。
+    * **類義語**: Shortage, loss.
+    * **例文**: The company is trying to reduce its annual deficit.（会社は年間の赤字を減らそうと努めている。）
+4.  **Expand** (動詞): 拡大する、膨張する
+    * **対義語**: Shrink, contract.
+    * **例文**: They plan to expand their business into overseas markets.（彼らはビジネスを海外市場へ拡大する計画だ。）
+5.  **Consider** (動詞): 検討する、〜だとみなす
+    * **類義語**: Think about, contemplate.
+    * **例文**: Please consider my proposal carefully.（私の提案を慎重に検討してください。）
 
 ---
 
 ## 4. 【実践演習】
 
-学習内容を定着させるための3問です。
+**Q1. 次の日本文を英語に直しなさい。（ヒント: consider / abolish）**
+「政府はファンドを廃止することを検討している。」
+> **解答**: The government is considering abolishing the fund.
+> **解説**: "consider" は後ろに動名詞（-ing）をとります。"to abolish" としないように注意しましょう。
 
-**Q1. 次の日本文を英文に直しなさい。（過去分詞の活用）**
-「昨日発表された計画は、多くの人々を驚かせた。」
-(Hint: The plan / announce yesterday / surprise / many people)
+**Q2. 空欄を埋めなさい。**
+"The project failed _______ ( due / because / since ) the lack of funding."
+> **解答**: due to
+> **解説**: 空欄の後ろが名詞句（the lack of funding）なので、前置詞である "due to" が適切です。
 
-> **解答**: The plan **announced yesterday** surprised many people.
-> **解説**: 「発表された」計画なので、announceを過去分詞形にして後ろからplanを修飾します。
-
-**Q2. 空所を埋めなさい。（前置詞の選択）**
-"The school festival will be held ( ) next Monday."
-
-> **解答**: on
-> **解説**: 特定の曜日や記念日には「on」を使用します。
-
-**Q3. 次の語を並べ替えて意味の通る文にしなさい。**
-(the, by, the, painting, artist, famous) / is / beautiful.
-
-> **解答**: The painting **painted by the famous artist** is beautiful.
-> **解説**: 「その有名な芸術家によって描かれた絵画は美しい」という文です。
+**Q3. 並べ替え問題**
+( deficit / the / has / expanded / cumulative / government / . / by / )
+「政府は累積赤字を拡大させてしまった。」
+> **解答**: The government has expanded the cumulative deficit.
+> **解説**: 主語(The government) + 現在完了形(has expanded) + 目的語(the cumulative deficit) の語順です。
 
 ---
 
 ## 5. 【ディスカッション・洞察】
 
 **Topic Question**:
-Why do people hold memorial events for tragedies?
+Why is it important for the government to evaluate public funds like the Cool Japan Fund?
 
 **Model Answer**:
-"People hold memorial events to honor the memories of the victims, share their grief, and support each other. It also serves as a reminder to ensure such tragedies are not repeated in the future."
+It is crucial for the government to evaluate public funds because they are financed by taxpayers' money. Proper risk management and investment judgment are essential to ensure that these funds are used effectively and to prevent unnecessary financial losses.
 
 **日本語訳**:
-「人々は、犠牲者の思い出を称え、悲しみを分かち合い、互いに支え合うために追悼イベントを開きます。また、そのような悲劇が二度と繰り返されないようにするための戒めとしての役割も果たします。」
+なぜ政府がクールジャパン機構のような官民ファンドを検証することは重要なのですか？
+（模範解答：政府が公的資金を投じるファンドを検証することは、それらが税金によって賄われているため極めて重要です。資金が効果的に使用されることを保証し、不必要な経済的損失を防ぐためには、適切なリスク管理と投資判断が不可欠です。）
 
 ---
+📺 **【音声解説】**
+Shorts (15秒): [準備中]
+長尺 (じっくり解説): [準備中]
 
-## 📚 学習を加速させるおすすめツール
-
-* **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
-* **Amazonおすすめアイテム**
-* [ノイキャンイヤホン](https://www.amazon.co.jp) - 集中力を高める必須アイテム。
-* [NHKラジオ 基礎英語2 関連書籍](https://www.amazon.co.jp) - 基礎固めに最適。
-
-
+📚 **【学習を加速させるおすすめツール】**
+- **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
+- **Amazonおすすめアイテム**
+    - [ノイキャンイヤホン](アフィリエイトリンク)
+    - [基礎英語2 関連書籍](アフィリエイトリンク)
 
 ---
-
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**
