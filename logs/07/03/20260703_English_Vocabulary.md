@@ -1,4 +1,5 @@
-# Daily Vocabulary Building: 2026-07-03 > [Target Level]: 中学英語の復習から英検2級・準1級を目指す大人の学び直しに最適。
+# Daily Vocabulary Building: 2026-07-03 
+> [Target Level]: 中学英語の復習から英検2級・準1級を目指す大人の学び直しに最適。
 
 ## 1. 【ニュース概要と引用元】
 
