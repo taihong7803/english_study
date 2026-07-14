@@ -122,7 +122,7 @@ Those ( 　　 ) missed the announcement will be informed later.
 ---
 
 ## 📺 【音声解説】
-*   **Shorts (15秒)**: [準備中] - *「RefundとReimbursementの違い、15秒で解説！」*
+*   **Shorts (15秒)**: [【衝撃】17万人が激怒。鎌倉花火大会、返金拒否から一転の真相 / Kamakura Fireworks Drama](https://youtube.com/shorts/hci3yeoAZPA)
 *   **長尺 (じっくり解説)**: [準備中] - *「2026年夏のニュース英語：謝罪と対応のフレーズ集」*
 
 ---
@@ -130,8 +130,8 @@ Those ( 　　 ) missed the announcement will be informed later.
 ## 📚 学習を加速させるおすすめツール
 *   **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 2026年上半期編]
 *   **Amazonおすすめアイテム**
-    *   [ノイキャンイヤホン](https://www.amazon.co.jp/) - *集中力を高めてリスニング学習！*
-    *   [基礎英語2 関連書籍](https://www.amazon.co.jp/) - *中学文法の総復習に最適*
+    *   [ノイキャンイヤホン](https://amzn.to/4f3lfxS) - *集中力を高めてリスニング学習！*
+    *   [基礎英語2 関連書籍](https://amzn.to/4hhGld0) - *中学文法の総復習に最適*
 
 ---
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**

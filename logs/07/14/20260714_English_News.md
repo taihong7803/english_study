@@ -123,7 +123,7 @@ The Kamakura Fireworks Festival Executive Committee announced on July 13th that 
 ---
 
 ## 📺 【音声解説】
-*   **Shorts (15秒)**: [準備中] - *「due to と because of の使い分けを15秒でマスター！」*
+*   **Shorts (15秒)**: [【衝撃】17万人が激怒。鎌倉花火大会、返金拒否から一転の真相 / Kamakura Fireworks Drama](https://youtube.com/shorts/hci3yeoAZPA)
 *   **長尺 (じっくり解説)**: [準備中] - *「鎌倉花火大会のニュースから学ぶ、大人の謝罪英語」*
 
 ---
@@ -131,8 +131,8 @@ The Kamakura Fireworks Festival Executive Committee announced on July 13th that 
 ## 📚 学習を加速させるおすすめツール
 *   **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 *   **Amazonおすすめアイテム**
-    *   [愛用ノイキャンイヤホン](https://www.amazon.co.jp/) - *集中してリスニング学習をする際の必須アイテム。*
-    *   [基礎英語2 関連書籍](https://www.amazon.co.jp/) - *本日の「関係代名詞」や「受動態」の基礎を固めるのに最適。*
+    *   [ノイキャンイヤホン](https://amzn.to/4f3lfxS) - *集中力を高めてリスニング学習！*
+    *   [基礎英語2 関連書籍](https://amzn.to/4hhGld0) - *中学文法の総復習に最適*
 
 ---
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**

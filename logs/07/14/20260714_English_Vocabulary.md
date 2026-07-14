@@ -117,7 +117,7 @@ The decision by the Kamakura Fireworks Committee to offer a refund is a prime ex
 ---
 
 ## 📺 【音声解説】
-*   **Shorts (15秒)**: [準備中] - *「Alter vs Change：ネイティブが使い分ける決定的な違いとは？」*
+*   **Shorts (15秒)**: [【衝撃】17万人が激怒。鎌倉花火大会、返金拒否から一転の真相 / Kamakura Fireworks Drama](https://youtube.com/shorts/hci3yeoAZPA)
 *   **長尺 (じっくり解説)**: [準備中] - *「鎌倉花火大会の謝罪文から学ぶ、大人の品格ある英単語20選」*
 
 ---
@@ -125,8 +125,8 @@ The decision by the Kamakura Fireworks Committee to offer a refund is a prime ex
 ## 📚 語彙学習をブーストするおすすめツール
 *   **Kindle本（執筆中）**: [語源で読み解く英単語図鑑 - ニュースで語彙を倍増させる]
 *   **Amazonおすすめ**:
-    *   [語彙力強化用ノート](https://www.amazon.co.jp/) - *学んだ単語をアウトプットして定着！*
-    *   [単語帳（英検準1級レベル）](https://www.amazon.co.jp/) - *本日の alter や dissatisfaction も網羅。*
+    *   [ノイキャンイヤホン](https://amzn.to/4f3lfxS) - *集中力を高めてリスニング学習！*
+    *   [基礎英語2 関連書籍](https://amzn.to/4hhGld0) - *中学文法の総復習に最適*
 
 ---
 **「たとえ1単語でも、昨日より知識が深まった自分を褒めましょう！」**

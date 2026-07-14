@@ -128,7 +128,7 @@ The Kamakura Fireworks case highlights a significant shift in how public organiz
 ---
 
 ## 📺 【音声解説】
-*   **Shorts (15秒)**: [準備中] - *「15秒で覚える！give in to の正しい使い方」*
+*   **Shorts (15秒)**: [【衝撃】17万人が激怒。鎌倉花火大会、返金拒否から一転の真相 / Kamakura Fireworks Drama](https://youtube.com/shorts/hci3yeoAZPA)
 *   **長尺 (じっくり解説)**: [準備中] - *「鎌倉花火大会のニュースから学ぶ、大人のための責任・対応フレーズ集」*
 
 ---
@@ -136,8 +136,8 @@ The Kamakura Fireworks case highlights a significant shift in how public organiz
 ## 📚 熟語学習をブーストするおすすめツール
 *   **Kindle本（執筆中）**: [ネイティブの感覚で捉える英熟語図録]
 *   **Amazonおすすめ**:
-    *   [ノイキャンイヤホン](https://www.amazon.co.jp/) - *移動中の隙間時間に熟語を耳からインプット！*
-    *   [キクジュク（英検2級レベル）](https://www.amazon.co.jp/) - *本日の live up to など、必須熟語を網羅。*
+    *   [ノイキャンイヤホン](https://amzn.to/4f3lfxS) - *集中力を高めてリスニング学習！*
+    *   [基礎英語2 関連書籍](https://amzn.to/4hhGld0) - *中学文法の総復習に最適*
 
 ---
 **「頭痛の日でも、熟語1つ覚えた自分を褒めましょう！」**
