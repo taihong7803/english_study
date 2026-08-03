@@ -4,10 +4,10 @@
 ## 1. 【ニュース概要と社会的背景】 (News Summary & Background)
 
 ### English Summary
-On August 2, 2026, a remarkable wave of solidarity was witnessed at Kumamoto’s official antenna shop located in Ginza, Tokyo [cite: 1]. Long before the store opened, more than 100 people formed a massive queue in the scorching summer heat to purchase local specialty products as a way to support the disaster-affected region [cite: 1]. In addition to purchasing goods, visitors actively contributed to donation boxes set up inside the shop [cite: 1]. Within just three days—from the day after the earthquake occurred until yesterday—approximately 4 million yen in donations was collected [cite: 1]. Store representatives expressed deep gratitude, noting that such direct encouragement and warm voices from customers serve as a powerful pillar of emotional and financial support for the people of Kumamoto, despite some logistical challenges causing temporary product shortages [cite: 1]. This news highlights the resilient community spirit and mutual aid culture deeply embedded in Japanese society during times of crisis.
+On August 2, 2026, a remarkable wave of solidarity was witnessed at Kumamoto’s official antenna shop located in Ginza, Tokyo . Long before the store opened, more than 100 people formed a massive queue in the scorching summer heat to purchase local specialty products as a way to support the disaster-affected region . In addition to purchasing goods, visitors actively contributed to donation boxes set up inside the shop . Within just three days—from the day after the earthquake occurred until yesterday—approximately 4 million yen in donations was collected . Store representatives expressed deep gratitude, noting that such direct encouragement and warm voices from customers serve as a powerful pillar of emotional and financial support for the people of Kumamoto, despite some logistical challenges causing temporary product shortages . This news highlights the resilient community spirit and mutual aid culture deeply embedded in Japanese society during times of crisis.
 
 ### 日本語訳
-2026年8月2日、東京・銀座にある熊本県のアンテナショップにおいて、被災地を支援しようとする驚くべき連帯の輪が広がりました [cite: 1]。開店前の猛暑の中、地元特産品を購入して被災地を応援しようと、100人を超える人々が長蛇の列を作りました [cite: 1]。商品の購入だけでなく、店内に設置された義援金箱への募金も積極的に行われました [cite: 1]。地震発生の翌日から昨日までのわずか3日間で、約400万円の義援金が集まったということです [cite: 1]。店舗の担当者は、お客様からの直接のお声がけや温かい支援が、熊本県民にとって大きな励みであり強力な支えになると深く感謝を示しています（なお、物流の不安定さから一部商品は品薄となっています） [cite: 1]。このニュースは、困難な状況下における日本社会の強い絆と相互扶助の精神を改めて浮き彫りにしています。
+2026年8月2日、東京・銀座にある熊本県のアンテナショップにおいて、被災地を支援しようとする驚くべき連帯の輪が広がりました 。開店前の猛暑の中、地元特産品を購入して被災地を応援しようと、100人を超える人々が長蛇の列を作りました 。商品の購入だけでなく、店内に設置された義援金箱への募金も積極的に行われました 。地震発生の翌日から昨日までのわずか3日間で、約400万円の義援金が集まったということです 。店舗の担当者は、お客様からの直接のお声がけや温かい支援が、熊本県民にとって大きな励みであり強力な支えになると深く感謝を示しています（なお、物流の不安定さから一部商品は品薄となっています） 。このニュースは、困難な状況下における日本社会の強い絆と相互扶助の精神を改めて浮き彫りにしています。
 
 ---
 
@@ -16,7 +16,7 @@ On August 2, 2026, a remarkable wave of solidarity was witnessed at Kumamoto’s
 > **"Customers lining up before opening and contributing roughly 4 million yen in donations demonstrate how public solidarity can provide a powerful pillar of support for disaster-affected regions."**
 
 * **日本語訳**: 「開店前から行列を作り、約400万円の義援金を寄せた顧客たちの姿は、市民の連帯がいかにして被災地にとって強力な支えとなり得るかを示している。」
-* **出典・関連ニュース**: TBS NEWS DIG 「少しでも力になれれば…」熊本のアンテナショップに開店前から100人以上の行列 [cite: 1]
+* **出典・関連ニュース**: TBS NEWS DIG 「少しでも力になれれば…」熊本のアンテナショップに開店前から100人以上の行列 
 
 ---
 
