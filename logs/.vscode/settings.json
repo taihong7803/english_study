@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\github\\english_study\\logs\\09\\10\\statistics_day51_bridge2grade2.aux": true,
+        "**/c:\\github\\english_study\\logs\\09\\10\\statistics_day51_bridge2grade2.log": true,
+        "**/c:\\github\\english_study\\logs\\09\\10\\statistics_day51_bridge2grade2.gz": true,
+        "**/c:\\github\\english_study\\logs\\09\\10\\statistics_day51_bridge2grade2.out": true
+    },
+    "cloudlatex.autoCompile": true,
+    "cloudlatex.enabled": true
+}
