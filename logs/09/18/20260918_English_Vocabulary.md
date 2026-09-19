@@ -153,8 +153,9 @@ On September 17, 2026, Japanese Prime Minister Sanae Takaichi officially launche
 ## 📚 語彙学習をブーストするおすすめツール
 - **Kindle本（執筆中）**: [語源で読み解く英単語図鑑 - ニュース英語の完全攻略]
 - **Amazonおすすめ**:
-     - [語彙力強化用ノート](アフィリエイトリンク)
-     - [単語帳（英検準1級レベル）](アフィリエイトリンク)
+    - [愛用ノイキャンイヤホン](https://amzn.to/3T8hkrl)
+    - [Comu Action Pro AI ボイスレコーダー](https://amzn.to/3TC9OFi)
+
 
 ---
 

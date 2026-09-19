@@ -167,8 +167,9 @@ The prime minister showed ( a / to / her / stance / strong / accelerate ) econom
 ## 📚 学習を加速させるおすすめツール
 - **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語]
 - **Amazonおすすめアイテム**
-    - [ノイキャンイヤホン](アフィリエイトリンク)
-    - [基礎英語2 関連書籍](アフィリエイトリンク)
+    - [愛用ノイキャンイヤホン](https://amzn.to/3T8hkrl)
+    - [Comu Action Pro AI ボイスレコーダー](https://amzn.to/3TC9OFi)
+
 
 ---
 
