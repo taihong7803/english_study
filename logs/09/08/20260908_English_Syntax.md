@@ -1,168 +1,118 @@
-# Daily English Learning: 2026-09-08
+# Daily English Learning: 2026-09-24
 > [Target Level]: 中学英語の復習から英検2級を目指す大人の学び直しに最適
 
 ## 1. 【今日の一文とニュース概要】
+**引用元メディア名**: 東スポWEB（Yahoo!ニュース配信）  
+**記事URL**: https://news.yahoo.co.jp/articles/
 
-### 核心の一文
-> **"The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not “held hostage” by the ongoing war between the U.S. and Iran."**
-> 
-> *（日本語訳：アラブ首長国連邦（UAE）は、自国のエネルギー輸出や貿易が米国とイランの間の現在進行中の戦争によって「人質に取られる（妨げられる）」ことがないようにするため、代替ルートの構築を進めている。）*
+> **"Actor Toru Shinagawa, who actively performed as a renowned supporting actor in various TV dramas and movies, passed away from lymphoma at the age of 90."**  
+> （和訳：映画やテレビドラマで名バイプレイヤーとして活躍した俳優の品川徹さんが、リンパ腫のため90歳で亡くなった。）
 
-- **引用元メディア**: CNBC Africa (Reuters配信)
-- **記事のURL**: [https://www.cnbcafrica.com/2026/uae-says-its-energy-exports-will-not-be-held-hostage-by-iran-war](https://www.cnbcafrica.com/2026/uae-says-its-energy-exports-will-not-be-held-hostage-by-iran-war)
-
-### 【背景解説】
-本ニュースは、2026年9月8日現在、緊迫化する中東の地政学的リスクと、それが世界経済に及ぼす甚大な影響を鮮明に映し出しています。米国・イスラエルとイランの衝突により、世界のエネルギー供給の5分の1が通過するホルムズ海峡が封鎖され、エネルギー価格の高騰と世界的な経済危機が引き起こされています。
-このような状況下で、アラブ首長国連邦（UAE）は東海岸の港湾拡張やパイプライン、鉄道などの代替輸送回廊の開発を急いでいます。これは単なる一国の安全保障措置にとどまらず、世界のサプライチェーンの再編を意味する極めて重要な動きです。エネルギー大国がどのようにリスクを分散し、経済の自立を図るかを学ぶことは、現代の世界情勢を理解する上で必須の視点であり、ビジネスパーソンにとっても今まさに学ぶべき価値のあるトピックです。
+【背景解説】:  
+現在、日本の演劇・映像界において長年にわたり作品を支えてきた名脇役たちの存在と、文化・エンターテインメント産業の歴史的歩みを振り返るうえで、品川徹さんの生涯と功績を学ぶことは非常に大きな意義を持ちます。品川さんは『白い巨塔』の大河内教授役や『ドラゴン桜』などの話題作、さらには北野武監督作品や劇団転形劇場の舞台で独特の存在感を発揮し、作品の深みを支える重鎮として多大な貢献を果たしました。訃報を通じて、日本の表現芸術の伝統とそれを支える名バイプレイヤーの価値を再認識することは、現代の文化理解や国際発信の観点からも重要です。
 
 ---
 
 ## 2. 【5文型徹底分解（S, V, O, C, M）】
 
-この英文は、全体として**第3文型（S + V + O）**を骨格とし、そこに重層的な修飾語（M）や、目的を表す不定詞句（M）が入れ子状に組み合わさった、非常に論理的かつ頑強な構造を持っています。
+### 構文の要素分解
+- **[S]** `Actor Toru Shinagawa` （主語：俳優の品川徹）
+- **[M1]** `, who actively performed as a renowned supporting actor in various TV dramas and movies,` （修飾語節：～として活躍した）
+- **[V]** `passed away` （動詞：亡くなった）
+- **[M2]** `from lymphoma` （修飾語句：リンパ腫のため）
+- **[M3]** `at the age of 90.` （修飾語句：90歳で）
 
-### 要素ごとの詳細分解
-1. **`The United Arab Emirates` 【 S 】（主語）**
-   - 固有名詞。文全体の動作を行う主体（アラブ首長国連邦）を指す名詞句です。
-2. **`is building` 【 V 】（動詞）**
-   - 助動詞 `is` と他動詞 `build` の現在分詞が結びついた現在進行形です。これにより、単なる静的な事実ではなく「現在進行形でインフラ建設がダイナミックに進められている」という躍動感を示します。
-3. **`alternative routes` 【 O 】（目的語）**
-   - 名詞 `routes`（ルート）に、形容詞 `alternative`（代替の）が前置修飾した名詞句です。他動詞 `build` の対象（何を構築しているのか）を表します。
-4. **`for its energy exports and trade` 【 M 】（修飾語：副詞句または形容詞句）**
-   - 前置詞 `for`（〜のための）が導く句。`alternative routes` の目的や対象を後ろから修飾（形容詞句的用法）し、具体的に「何のための代替ルートか」を限定しています。
-5. **`to ensure they are not “held hostage” by the ongoing war between the U.S. and Iran` 【 M 】（修飾語：副詞句）**
-   - 不定詞 `to ensure`（〜を確実にするために）が導く目的の副詞句です。
-     - **接続詞 `that` の省略**: `ensure` は他動詞であるため、後ろに `that` 節（名詞節）を目的語として従えていますが、ここでは口語的・ニュース的な簡潔さのために `that` が省略されています。
-     - **従属節（that節）内の入れ子構造**:
-       - `they` **【 s' 】**：節内の主語。代名詞であり、前出の `its energy exports and trade` を指します。
-       - `are not “held hostage”` **【 v' + c' 】**：節内の動詞と補語。元の能動態は `hold O C`（OをCの状態にとどめる、人質にする）という第5文型（SVOC）ですが、受動態化により目的語 `they` が主語になり、主格補語として `hostage`（名詞）が残されています。
-       - `by the ongoing war between the U.S. and Iran` **【 m' 】**：受動態の動作主を表す副詞句。`war`（戦争）を形容詞 `ongoing`（進行中の）が前置修飾し、さらに `between the U.S. and Iran`（米国とイランの間の）という前置詞句が後ろから修飾しています。
+### 文の成り立ち深掘り解説（文型：第1文型 SV）
+この英文の基本骨格は**「S + V」**で構成される**第1文型（SV文型）**です。主語（S）は "Actor Toru Shinagawa" であり、主文の述語動詞（V）は句動詞の "passed away"（亡くなった）です。一見すると長くて複雑に見える文章ですが、文の骨組み自体は「品川徹さんが亡くなった」という極めてシンプルな構造を持っています。
 
-### 【文の成り立ち深掘り解説】
-英語の文法において、すべての文章は5つの基本文型のいずれかに帰結します。本稿の英文の核は「The UAE (S) is building (V) routes (O)」というシンプルな第3文型です。
-しかし、大人の英語学習者がニュースを読み解く上で最大の障壁となるのが、この骨組みに付着する「修飾語（M）」の長さです。本英文では、まず `for` から始まる前置詞句が目的語を修飾し、さらに不定詞 `to` を使った「目的」を表す長い副詞句が文末に置かれています。
-この不定詞の内部にある `ensure` が他動詞として「that名詞節」を引っ張り込み、その節の中でさらに「第5文型（SVOC）の受動態」が展開するという、入れ子（マトリョーシカ）構造が成立しています。
-主文の「骨格（SVO）」を瞬時に見抜き、そこに結びつく「修飾の枝葉（M）」がどのような文法的役割を果たしているかを頭の中で整理できるようになることで、英検2級レベルに必要な「長文の速読即解力」が飛躍的に向上します。
+文が長くなっている最大の理由は、主語 "Actor Toru Shinagawa" と動詞 "passed away" の間に、関係代名詞 "who" を用いた非制限用法の関係代名詞節（形容詞節）が修飾語（M1）として挿入されているためです。この関係代名詞節内で "performed"（活躍した・演じた）が動詞として機能し、"as a renowned supporting actor"（名脇役として）や "in various TV dramas and movies"（多様なテレビドラマや映画で）といった副詞句（M）が付け加えられています。
+
+さらに、主文の動詞 "passed away" の後には、死因を表す前置詞句 "from lymphoma"（M2）と、年齢を表す前置詞句 "at the age of 90"（M3）という2つの副詞句（M）が続いています。このように、第1文型（SV）のシンプルな骨組みに複数の修飾語（M）が緻密に重ね合わされた構造を把握することが、複雑なニュース英文を素早く正確に読み解くための本質的なスキルとなります。
 
 ---
 
 ## 3. 【英文法・構文の応用解説】
 
-本英文から、大人の学び直しに極めて重要かつ実戦的な3つの文法事項を厳選して徹底解説します。
-
-### ① 不定詞の副詞的用法（目的を表す `to + V`）
-- **公式**: `to + 動詞の原形`（＝「〜するために」）
-- **解説**:
-  動詞や形容詞、文全体を修飾して「目的」を表します。ニュースや論文などのフォーマルな英語では、この「目的」を文頭や文末に置いて、アクションの動機を説明するために欠かせない構文です。より目的の意味を強調したり硬い表現にしたい場合は、`in order to + V` や `so as to + V` に書き換えることが可能です。
+### 1. 非制限用法の関係代名詞（Non-restrictive Relative Clause）
+- **解説**: カンマで挟まれた `, who actively performed... ,` は非制限用法の関係代名詞節です。先行詞（Actor Toru Shinagawa）に補足的な情報を付け加える働きをします。すでに特定されている固有の人物に対して、会話の流れを止めずに説明を追加する際に必須となる表現技法です。
 - **実戦応用例文**:
-  - *The company adjusted its production schedule **to meet** the surging global demand.*
-    （その企業は、急増する世界的な需要に応えるために生産スケジュールを調整した。）
-  - *Governments are stockpiling food resources **to prepare** for potential chain disruptions.*
-    （政府は、供給網の寸断の可能性に備えるために、食料資源の備蓄を進めている。）
+  - *Dr. Okochi, who played a key role in the medical drama, was deeply respected by all students.*  
+    （その医療ドラマで重要な役割を果たした大河内教授は、すべての学生から深く尊敬されていた。）
 
-### ② 第5文型（SVOC）の受動態（`be held hostage`）
-- **公式**: `be held + 補語（C）`（元の能動態：`hold + 目的語（O）+ 補語（C）`）
-- **解説**:
-  動詞 `hold` は「〜を保持する、掴む」という基本的な意味ですが、第5文型として `hold O C` の形を取ると、「OをCの状態に据え置く、留める」という意味になります（例: `hold the door open` = ドアを開けた状態にしておく）。
-  これが受動態になると、目的語のOが主語（S'）に押し上げられ、補語（C）が動詞の後ろにそのまま残ります。本英文の `be held hostage`（人質に取られる、縛られて身動きが取れなくなる）は、国際情勢やビジネス交渉で「不本意な制約やリスクに晒されている状態」を比喩的に表現する定番の重要構文です。
+### 2. 死因・理由を表す前置詞（Prepositional Expression of Cause: pass away from / die of）
+- **解説**: `pass away from [病名/死因]` は「～（病気や負傷など）で亡くなる」を意味する表現です。直接的な死因には `die of` がよく使われますが、病気や複合的要因・遠回しな表現には `pass away from` や `die from` が用いられます。`pass away` は `die` の丁寧な婉曲表現（息を引き取る）です。
 - **実戦応用例文**:
-  - *We should not let our supply chains **be held hostage** by political instability.*
-    （政治的不安によって、私たちのサプライチェーンが人質に取られる（脅かされる）ようなことがあってはならない。）
-  - *The small island nation's economy **was held hostage** by the massive foreign debt.*
-    （その小さな島国の経済は、莫大な対外債務によって人質に取られた（身動きが取れなくなった）。）
+  - *The veteran actor passed away peacefully from old age surrounded by his loving family.*  
+    （そのベテラン俳優は、愛する家族に見守られながら老衰のため穏やかに息を引き取った。）
 
-### ③ 現在進行形による「持続的・動的な取り組み」の表現（`is building`）
-- **公式**: `am / is / are + 現在分詞（V-ing）`
-- **解説**:
-  中学英語では「今まさにプレイしている」という一瞬の動作を表すと習いますが、社会人英語やニュース記事では、**「（一定の期間にわたり変化や進展を伴いながら）現在取り組んでいること」**を表すために多用されます。単なる現在形（`builds`）が「習慣や普遍の事実」を示すのに対し、進行形を使うことで「現在まさに問題に対処すべく、ダイナミックにプロジェクトを進行中である」という臨場感と緊急性を付与できます。
+### 3. 年齢を表す前置詞句（Prepositional Phrase of Age: at the age of ...）
+- **解説**: `at the age of [数値]` は「～歳で」を意味するフォーマルな表現です。報道記事や伝記・公式文書などで頻繁に用いられます。日常会話では `at 90` や `aged 90` と簡略化されることも多いですが、格調高い英文を作成する際には本構文が好まれます。
 - **実戦応用例文**:
-  - *Tech companies **are investing** heavily in renewable energy to power their AI data centers.*
-    （テック企業は、AIデータセンターに電力を供給するために再生可能エネルギーに巨額の投資を行っている。）
-  - *Central banks **are navigating** a difficult economic landscape amid ongoing global trade tensions.*
-    （中央銀行は、継続する世界的な貿易緊張の中で困難な経済情勢の舵取りを行っている。）
+  - *He established his own theater group at the age of 27 and mentored many promising young artists.*  
+    （彼は27歳で自身の劇団を立ち上げ、多くの有望な若手芸術家を指導した。）
 
 ---
 
 ## 4. 【重要語彙・フレーズ】
 
-ニュースの文脈を深く理解し、表現の幅を広げるための詳細な語彙表です。語源を学ぶことで、初見の単語でも意味を推測する力が身につきます。
-
-| 単語 | 発音記号 | 主な意味 | 語源・成り立ち (Root / Origin) | 類義語 (Synonyms) | 反対語 (Antonyms) | 応用例文 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **alternative** | /ɔːlˈtɜːrnətɪv/ | 代替の、代わりの、二者択一の | ラテン語 `alter`（もう一つの、他方の）＋ 接尾辞 `-ative`。「もう一つの選択肢がある」状態を示す。 | substitute, replacement, equivalent | conventional (従来の), compulsory (強制の) | *We must develop **alternative** methods of shipping.*<br>（私たちは代替の輸送方法を開発しなければならない。） |
-| **ensure** | /ɪnˈʃʊr/ | 確実にする、保証する、安全にする | 接頭辞 `en-`（〜にする）＋ `sure`（確実な）。「確実にそうである状態にする」が原義。 | guarantee, secure, verify | undermine (弱体化させる), endanger (危険にさらす) | *Strict quality control **ensures** customer satisfaction.*<br>（厳格な品質管理が顧客満足を確実にする。） |
-| **hostage** | /ˈhɑːstɪdʒ/ | 人質、人質に取られた状態 | 古期フランス語 `hostage`（人質、宿泊、宿）。ラテン語の `hospes`（客人・主人）に由来し、敵の手に拘束された客人という皮肉な歴史を持つ。 | captive, prisoner | freeman (自由人) | *The hostages were finally released after intense negotiations.*<br>（緊迫した交渉の末、人質たちはついに解放された。） |
-| **ongoing** | /ˈɑːnˌɡoʊɪŋ/ | 進行中の、継続している | 前方への継続を示す `on` ＋ 進む `go` ＋ 現在分詞の `-ing`。絶え間なく前に進んでいる状態。 | continuous, underway, persistent | completed (完了した), concluded (完結した) | *The **ongoing** conflicts have heavily affected global energy prices.*<br>（進行中の紛争は、世界のエネルギー価格に多大な影響を与えている。） |
-| **coordinate** | /koʊˈɔːrdɪneɪt/ | 調整する、調和させる、協調させる | 接頭辞 `co-`（共に）＋ ラテン語 `ordinare`（順序よく整える）。「複数のものを規則正しく連動させる」という意味。 | organize, harmonize, integrate | disrupt (混乱させる), mismatch (不適合にさせる) | *The relief agencies worked tirelessly to **coordinate** their efforts.*<br>（援助機関は活動を調整するために精力的に働いた。） |
+| 単語・熟語 | 品詞 | 日本語訳 | 語源 (Root) | 類義語 (Synonym) | 反対語 (Antonym) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **renowned** | 形容詞 | 有名な、名高い | re-（強調）+ nown / name（名前）→「何度も名が挙がる」 | famous, celebrated, distinguished | unknown, obscure, anonymous |
+| **supporting actor** | 名詞句 | 脇役、バイプレイヤー | support（支える）+ actor（俳優）→「主役や作品全体を支える演者」 | character actor, co-star | lead actor, protagonist |
+| **pass away** | 句動詞 | 亡くなる、息を引き取る | pass（通り過ぎる）+ away（去って）→「この世を去る」 | die, expire, depart | be born, survive, live |
+| **actively** | 副詞 | 精力的に、第一線で | act（行動する）+ -ive（形容詞化）+ -ly（副詞化） | energetically, dynamically | passively, inactively |
+| **lymphoma** | 名詞 | リンパ腫 | lymph（リンパ液）+ -oma（腫瘍を表す接尾辞） | lymphatic cancer | (N/A) |
 
 ---
 
 ## 5. 【実践演習】
 
-本日学んだ文法・語彙の理解度を測るための3つの実践問題です。解答だけでなく、大人の学び直しに役立つ「なぜその語順になるのか」のプロセス解説付き。
+### 第1問【書き換え問題】
+- **問題**: 次の2つの文を、非制限用法の関係代名詞を使って1つの文に合成しなさい。
+  - *Sentence A*: Mr. Shinagawa passed away at the age of 90.
+  - *Sentence B*: He played a key role in the popular drama "Shiroi Kyoto".
+- **解答**: **Mr. Shinagawa, who played a key role in the popular drama "Shiroi Kyoto", passed away at the age of 90.**
+- **解説**: Sentence Aの主語 *Mr. Shinagawa* を先行詞とし、Sentence Bの代名詞 *He* を関係代名詞 *who* に置き換えて挿入します。固有名詞が先行詞のため、前後にカンマを配置する非制限用法（非限定用法）にする点に注意しましょう。
 
-### 【第1問：書き換え問題（難易度：英検準2級〜2級レベル）】
-**[問題]** 次の英文を、`so that` を用いた「目的を表す副詞節」の形に書き換えなさい。
-> *The UAE is building alternative routes to ensure their trade is not held hostage.*
+### 第2問【英作文問題】
+- **問題**: 「多くの人々に愛されたそのベテラン俳優は、8月29日に息を引き取りました。」を英語にしなさい。（※句動詞 `pass away` を使用すること）
+- **解答**: **The veteran actor, who was loved by many people, passed away on August 29.**
+- **解説**: 「ベテラン俳優」は *The veteran actor*。「多くの人々に愛された」は関係代名詞節 *who was loved by many people* で補足修飾します。「息を引き取る」は過去形の *passed away* とし、具体的な日付の前には前置詞 *on* を使用します。
 
-- **解答**:
-  **`The UAE is building alternative routes so that their trade will not be held hostage.`**
-- **解説**:
-  `to ensure (that) S is not ...`（Sが〜にならないことを確実にするために）という不定詞句は、`so that S will not ...`（Sが〜にならないように）という副詞節に書き換えることができます。`so that` の中では、未来や意志・可能を表す助動詞（`will` や `can`）を伴うのが基本ルールです。
-
----
-
-### 【第2問：和文英訳問題（難易度：英検2級レベル）】
-**[問題]** 次の日本語を、本日学んだ語彙（`ensure` 和 `coordinate`）を用いて英訳しなさい。
-> 「私たちは、プロジェクトに遅れが生じないようにするために、行動を調整しなければならない。」
-> （※「遅れ」は `delays` を使用すること）
-
-- **解答**:
-  **`We must coordinate our actions to ensure there are no delays in the project.`**
-- **解説**:
-  1. まず主節の「私たちは行動を調整しなければならない」を作ります。`We must coordinate our actions` となります。
-  2. 次に目的を表す「〜がないようにするために」を、不定詞 `to ensure` と there構文（否定）を用いて `to ensure there are no delays` と繋げます。「プロジェクトにおいて」は `in the project` と表現します。
-
----
-
-### 【第3問：語句整序問題（並べ替え）（難易度：中学復習〜高校基礎レベル）】
-**[問題]** 「国際的な原油輸出は、進行中の紛争によって人質に取られる（脅かされる）べきではない。」という意味になるように、[ ] 内の語句を正しく並べ替えなさい。
-> `[ held / by / oil / ongoing / should / the / hostage / international / be / not / conflicts / exports ]`
-
-- **解答**:
-  **`International oil exports should not be held hostage by the ongoing conflicts.`**
-- **解説**:
-  1. 主語を決定します。「国際的な原油輸出」＝ `International oil exports`。
-  2. 動詞部分を作ります。「〜されるべきではない」という否定の義務・義務の受動態を作りたいので、助動詞 `should` ＋ 否定 `not` ＋ 受動態の原形 `be held hostage` を並べます。
-  3. 動作主（原因）を `by` 以下の前置詞句で表現します。`by the ongoing conflicts`（進行中の紛争によって）を繋げて完成です。
+### 第3問【文型識別問題】
+- **問題**: 次の英文の主語(S)、動詞(V)、修飾語(M)を指摘し、文型（SV, SVC, SVO等）を答えなさい。
+  - *"He performed on stage for many years."*
+- **解答**: 
+  - **S**: *He*
+  - **V**: *performed*
+  - **M1**: *on stage* （場所を表す副詞句）
+  - **M2**: *for many years* （期間を表す副詞句）
+  - **文型**: **第1文型（SV）**
+- **解説**: 動詞 *performed*（演技した／活動した）は目的語を必要としない自動詞です。*on stage*（舞台で）および *for many years*（長年にわたり）はいずれも修飾語（M）であり、文の主要要素（OやC）ではないため、第1文型（SV）となります。
 
 ---
 
 ## 6. 【AI's Insight】
 
-世界の地政学的リスクとエネルギー市場の現実について、英語での思考力を鍛えるコーナーです。
+**Question:**
+> *Why are supporting actors often considered the backbone of great storytelling in television and film?*
 
-### Topic Question
-> **How can resource-dependent nations protect their economic stability when major global trade corridors are disrupted by geopolitical conflicts?**
-> *（日本語訳：地政学的紛争によって世界の主要な貿易回廊が遮断されたとき、資源に依存する国家はどのようにして自国の経済的安定を守ることができるでしょうか？）*
-
-### Model Answer
-> **"To safeguard economic stability, resource-dependent nations must proactively diversify their trade routes and reduce over-reliance on vulnerable choke points. As demonstrated by the UAE's strategy in 2026, investing in alternative land-based pipelines and expanding deep-water port capacities on safer coastlines—bypassing volatile waterways like the Strait of Hormuz—is crucial. Additionally, establishing robust regional security frameworks and building national defense capabilities are vital steps. Relying solely on foreign military alliances is no longer a guaranteed shield in a multipolar world. Ultimately, long-term resilience requires a mix of infrastructure flexibility, strategic state-backed investment, and diplomatic diversification."**
-
-#### [和訳]
-「経済的安定を守るため、資源に依存する国家は能動的に自国の貿易ルートを多角化し、脆弱なチョークポイント（海上交通の要衝）への過度な依存を減らさなければなりません。2026年のUAEの戦略が示しているように、ホルムズ海峡のような不安定な水路を迂回し、代替の陸上パイプラインへの投資や、より安全な海岸沿いでの深水港湾容量の拡大を図ることが極めて重要です。さらに、強固な地域安全保障枠組みを構築し、自国の防衛能力を高めることも不可欠なステップです。多極化する世界において、外国の軍事同盟のみに依存することは、もはや確実な盾とは言えません。最終的に、長期的な回復力（レジリエンス）を維持するには、インフラの柔軟性、国家主導の戦略的投資、および外交の多角化を組み合わせる必要があります。」
+**Model Answer:**
+> *Supporting actors bring depth, realism, and emotional nuance to storytelling. While lead actors drive the primary plot, supporting actors ground the narrative world and make fictional environments believable. In the legacy of Toru Shinagawa, his subtle performance as Professor Okochi in "Shiroi Kyoto" provided an indispensable ethical anchor, proving that a master supporting actor's presence can define the moral tone and lasting quality of an entire masterpiece.*
 
 ---
+
 ## 📺 【音声解説】
-- **Shorts (15秒)**: [準備中]
-- **長尺 (じっくり解説)**: [準備中]
+Shorts (15秒): [準備中] - 長尺 (じっくり解説): [準備中]
 
 ---
+
 ## 📚 学習を加速させるおすすめツール
 - **Kindle本（執筆中）**: [ニュースで学ぶ実戦英語 - 基礎からグローバルへ]
 - **Amazonおすすめアイテム**
-    - [8kmの通勤・歩行中に愛用しているノイキャンイヤホン](アフィリエイトリンク)
-    - [本日の学習のベース「基礎英語2」関連書籍](アフィリエイトリンク)
+    - [愛用ノイキャンイヤホン](https://amzn.to/3T8hkrl)
+    - [Comu Action Pro AI ボイスレコーダー ](https://amzn.to/3TC9OFi)
 
 ---
+
 **「頭痛の日でも、1分だけ英語に触れた自分を褒めましょう！」**
