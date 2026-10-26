@@ -162,16 +162,27 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "9cdefd0b1da75844",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -183,6 +194,12 @@
   },
   "active": "090f8305bd8d6cba",
   "lastOpenFiles": [
+    "logs/10/26/20261026_English_Vocabulary.md",
+    "logs/10/26/20261026_English_Idioms.md",
+    "logs/10/26/20261026_English_News.md",
+    "logs/10/26/20261026_English_Syntax.md",
+    "logs/10/26/20261026_English_grammar.md",
+    "logs/10/26",
     "logs/10/25/20261025_English_grammar.md",
     "logs/10/25/20261025_English_Syntax.md",
     "logs/10/25/20261025_English_News.md",
