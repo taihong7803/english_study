@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1bddc1c9e284658",
+        "id": "449d634901a454cc",
         "type": "tabs",
         "children": [
           {
-            "id": "090f8305bd8d6cba",
+            "id": "f649057d83a75ec6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,16 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "090f8305bd8d6cba",
+  "active": "1ffe33c71e69e88c",
   "lastOpenFiles": [
+    "logs/10/30/20261030_English_Vocabulary.md",
+    "logs/10/30/20261030_English_Idioms.md",
+    "logs/10/30/20261030_English_News.md",
+    "logs/10/30/20261030_English_Syntax.md",
+    "logs/10/30/20261030_English_grammar.md",
+    "無題のファイル 1.md",
+    "無題のファイル.md",
+    "logs/10/30",
     "logs/10/26/20261026_English_Vocabulary.md",
     "logs/10/26/20261026_English_Idioms.md",
     "logs/10/26/20261026_English_News.md",
