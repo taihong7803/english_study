@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94334fb1dff9af81",
+        "id": "831b2eac36fe39be",
         "type": "tabs",
         "children": [
           {
-            "id": "6532541b429b3881",
+            "id": "9377fbcc00ba1be0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logs/10/09/20261009_English_Idioms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20261009_English_Idioms"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "6532541b429b3881",
+  "active": "1ffe33c71e69e88c",
   "lastOpenFiles": [
+    "logs/11/04",
     "logs/10/09/20261009_English_grammar.md",
     "logs/10/09/20261009_English_Idioms.md",
     "logs/10/09/20261009_English_News.md",
@@ -228,7 +225,6 @@
     "logs/11/01/20261101_English_grammar.md",
     "logs/11/01/20261101_English_Syntax.md",
     "logs/11/01/20261101_English_Idioms.md",
-    "logs/11/01/20261101_English_Vocabulary.md",
     "logs/11/01",
     "logs/11",
     "logs/10/31",
