@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/11/07/20261107_English_News.md",
+                "file": "logs/10/13/20261013_English_Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261107_English_News"
+              "title": "20261013_English_Syntax"
             }
           }
         ]
@@ -199,12 +199,12 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "1ffe33c71e69e88c",
+  "active": "57e15858315695c0",
   "lastOpenFiles": [
+    "logs/11/07/20261107_English_News.md",
     "logs/10/12/20261012_English_Idioms.md",
     "logs/11/07/20261107_English_Vocabulary.md",
     "logs/11/07/20261107_English_Idioms.md",
-    "logs/11/07/20261107_English_News.md",
     "logs/11/07/20261107_English_Syntax.md",
     "logs/11/07/20261107_English_grammar.md",
     "logs/11/07",
