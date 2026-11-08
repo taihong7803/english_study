@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85ea465d189263fe",
+        "id": "7b45f825c30d8adc",
         "type": "tabs",
         "children": [
           {
-            "id": "0077e1173cabd817",
+            "id": "e148d606787770b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logs/10/14/20261014_English_Idioms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20261014_English_Idioms"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,15 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "0077e1173cabd817",
+  "active": "1ffe33c71e69e88c",
   "lastOpenFiles": [
+    "logs/11/09/20261109_English_Vocabulary.md",
+    "logs/11/09/20261109_English_Idioms.md",
+    "logs/11/09/20261109_English_News.md",
+    "logs/11/09/20261109_English_Syntax.md",
+    "logs/11/09/20261109_English_grammar.md",
+    "logs/11/09",
+    "logs/10/14/20261014_English_Idioms.md",
     "logs/10/14/20261014_English_grammar.md",
     "logs/10/14/20261014_English_Syntax.md",
     "logs/11/08/20261108_English_News.md",
@@ -223,19 +226,12 @@
     "logs/10/12/20261012_English_News.md",
     "logs/11/06/20261106_English_News.md",
     "logs/10/11/20261011_English_Idioms.md",
-    "logs/11/06/20261106_English_grammar.md",
-    "logs/11/06/20261106_English_Syntax.md",
-    "logs/11/06/20261106_English_Idioms.md",
-    "logs/11/06/20261106_English_Vocabulary.md",
     "logs/11/06",
-    "logs/10/11/20261011_English_grammar.md",
-    "logs/10/11/20261011_English_Syntax.md",
     "logs/11/05",
     "logs/11/04",
     "logs/11/03",
     "logs/11/02",
     "logs/11/01",
-    "logs/11",
-    "logs/10/31"
+    "logs/11"
   ]
 }
