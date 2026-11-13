@@ -1,3 +1,4 @@
+
 # Daily Idiom & Phrasal Verb Learning: 2026-10-18
 > [Target Level]: 中学英語の復習から英検2級を目指す大人の学び直しに最適。
 
