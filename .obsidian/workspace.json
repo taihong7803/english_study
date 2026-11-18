@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56038ef0ad36ba04",
+        "id": "59a606effdcd585b",
         "type": "tabs",
         "children": [
           {
-            "id": "a655a024a60b774a",
+            "id": "2bf2b55ecc8d60c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "logs/10/25/20261025_English_Syntax.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "20261025_English_Syntax"
             }
           }
         ]
@@ -195,7 +199,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "1ffe33c71e69e88c",
+  "active": "2bf2b55ecc8d60c4",
   "lastOpenFiles": [
     "logs/11/18/20261118_English_Vocabulary.md",
     "logs/11/18/20261118_English_Idioms.md",
