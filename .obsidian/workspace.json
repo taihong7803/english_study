@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/10/25/20261025_English_Idioms.md",
+                "file": "logs/11/18/20261118_English_News.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261025_English_Idioms"
+              "title": "20261118_English_News"
             }
           }
         ]
@@ -199,13 +199,20 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "2bf2b55ecc8d60c4",
+  "active": "1ffe33c71e69e88c",
   "lastOpenFiles": [
+    "logs/11/19/20261119_English_grammar.md",
+    "logs/11/19/20261119_English_Syntax.md",
+    "logs/11/19/20261119_English_News.md",
+    "logs/11/19/20261119_English_Idioms.md",
+    "logs/11/19/20261119_English_Vocabulary.md",
+    "logs/11/19",
+    "logs/11/18/20261118_English_Syntax.md",
+    "logs/10/25/20261025_English_Idioms.md",
     "logs/10/25/20261025_English_Syntax.md",
     "logs/11/18/20261118_English_Vocabulary.md",
     "logs/11/18/20261118_English_Idioms.md",
     "logs/11/18/20261118_English_News.md",
-    "logs/11/18/20261118_English_Syntax.md",
     "logs/11/18/20261118_English_grammar.md",
     "logs/11/18",
     "logs/10/24/20261024_English_Idioms.md",
@@ -223,19 +230,12 @@
     "logs/11/16/20261116_English_Vocabulary.md",
     "logs/11/16/20261116_English_Idioms.md",
     "logs/11/16/20261116_English_Syntax.md",
-    "logs/11/16/20261116_English_grammar.md",
     "logs/11/16",
-    "logs/10/22/20261022_English_Syntax.md",
-    "logs/10/21/20261021_English_Idioms.md",
-    "logs/11/15/20261115_English_Vocabulary.md",
-    "logs/11/15/20261115_English_Idioms.md",
-    "logs/11/15/20261115_English_News.md",
     "logs/11/15",
     "logs/11/14",
     "logs/11/13",
     "logs/11/12",
     "logs/11/11",
-    "logs/11/10",
-    "logs/11/09"
+    "logs/11/10"
   ]
 }
