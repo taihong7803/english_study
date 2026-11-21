@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/10/27/20261027_English_Syntax.md",
+                "file": "logs/10/27/20261027_English_Idioms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261027_English_Syntax"
+              "title": "20261027_English_Idioms"
             }
           }
         ]
@@ -199,8 +199,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "1ffe33c71e69e88c",
+  "active": "abeda3e5ce92f5da",
   "lastOpenFiles": [
+    "logs/10/27/20261027_English_Syntax.md",
     "logs/11/21/20261121_English_News.md",
     "logs/11/21/20261121_English_Vocabulary.md",
     "logs/11/21/20261121_English_Idioms.md",
@@ -230,7 +231,6 @@
     "logs/11/18",
     "logs/10/24/20261024_English_Idioms.md",
     "logs/10/24/20261024_English_Syntax.md",
-    "logs/11/17/20261117_English_News.md",
     "logs/11/17",
     "logs/11/16",
     "logs/11/15",
