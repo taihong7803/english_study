@@ -11,10 +11,14 @@
             "id": "1426017d6038acbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "logs/11/22/20261122_English_News.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "20261122_English_News"
             }
           }
         ]
