@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/10/29/20261029_English_Idioms.md",
+                "file": "logs/11/24/20261124_English_News.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261029_English_Idioms"
+              "title": "20261124_English_News"
             }
           }
         ]
@@ -201,10 +201,11 @@
   },
   "active": "1ffe33c71e69e88c",
   "lastOpenFiles": [
+    "logs/11/24/20261124_English_Syntax.md",
+    "logs/10/29/20261029_English_Idioms.md",
     "logs/11/24/20261124_English_Vocabulary.md",
     "logs/11/24/20261124_English_Idioms.md",
     "logs/11/24/20261124_English_News.md",
-    "logs/11/24/20261124_English_Syntax.md",
     "logs/11/24/20261124_English_grammar.md",
     "logs/11/24",
     "logs/10/29/20261029_English_grammar.md",
@@ -229,7 +230,6 @@
     "logs/11/21/20261121_English_Vocabulary.md",
     "logs/11/21/20261121_English_Idioms.md",
     "logs/11/21/20261121_English_Syntax.md",
-    "logs/11/21/20261121_English_grammar.md",
     "logs/11/21",
     "logs/11/20",
     "logs/11/19",
