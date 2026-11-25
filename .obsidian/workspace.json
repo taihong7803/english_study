@@ -199,8 +199,14 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "a70511f9945210f2",
+  "active": "1ffe33c71e69e88c",
   "lastOpenFiles": [
+    "logs/11/25/20261125_English_Vocabulary.md",
+    "logs/11/25/20261125_English_Syntax.md",
+    "logs/11/25/20261125_English_News.md",
+    "logs/11/25/20261125_English_Idioms.md",
+    "logs/11/25/20261125_English_grammar.md",
+    "logs/11/25",
     "logs/10/30/20261030_English_Syntax.md",
     "logs/10/29/20261029_English_Syntax.md",
     "logs/11/24/20261124_English_News.md",
@@ -225,17 +231,11 @@
     "logs/11/22/20261122_English_Syntax.md",
     "logs/11/22/20261122_English_grammar.md",
     "logs/11/22",
-    "logs/10/27/20261027_English_Idioms.md",
-    "logs/10/27/20261027_English_Syntax.md",
-    "logs/11/21/20261121_English_News.md",
-    "logs/11/21/20261121_English_Vocabulary.md",
-    "logs/11/21/20261121_English_Idioms.md",
     "logs/11/21",
     "logs/11/20",
     "logs/11/19",
     "logs/11/18",
     "logs/11/17",
-    "logs/11/16",
-    "logs/11/15"
+    "logs/11/16"
   ]
 }
